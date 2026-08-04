@@ -1,8 +1,10 @@
 # Warhammer Vermintide 2 manual AP
 apworld setup
-- get the latest manual apworld from here https://github.com/ManualForArchipelago/Manual/releases
+- get the latest stable manual apworld from here https://github.com/ManualForArchipelago/Manual/releases
 - place the manual and vermintide 2 apworlds in your custom worlds folder or double click to install
+
 client setup
+- get latest version of the poptracker app from here https://github.com/black-sliver/PopTracker/releases
 - place ManualVermintide2Client in your poptracker/packs folder
 
 Goals
