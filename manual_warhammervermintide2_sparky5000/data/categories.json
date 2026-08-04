@@ -1,0 +1,199 @@
+{
+  "Tomes": {
+    "hidden": true,
+    "yaml_option": [
+      "Add_Tomes"
+    ]
+  },
+  "Grimoires": {
+    "hidden": true,
+    "yaml_option": [
+      "Add_Grimoires"
+    ]
+  },
+  "DLC Careers": {
+    "hidden": true,
+    "yaml_option": [
+      "DLC_Careers"
+    ]
+  },
+  "Legend": {
+    "hidden": true
+  },
+  "Weapon": {
+    "hidden": true,
+    "yaml_option": [
+      "Add_Weapon"
+    ]
+  },
+  "Back to Ubersreik Weapons": {
+    "hidden": true,
+    "yaml_option": [
+      "Back_To_Ubersreik_Weapons"
+    ]
+  },
+  "Winds of Magic Weapons": {
+    "hidden": true,
+    "yaml_option": [
+      "Winds_of_Magic_Weapons"
+    ]
+  },
+  "Forgotten Relics": {
+    "hidden": true,
+    "yaml_option": [
+      "Forgotten_Relics"
+    ]
+  },
+  "StandardMission": {
+    "hidden": true
+  },
+  "LordMission": {
+    "hidden": true
+  },
+  "Mission": {
+    "hidden": true
+  },
+  "Hero": {
+    "hidden": true
+  },
+  "ViktorMWeapon": {
+    "hidden": true
+  },
+  "WarriorPriestWeapon": {
+    "hidden": true
+  },
+  "ZealotWeapon": {
+    "hidden": true
+  },
+  "ViktorRWeapon": {
+    "hidden": true
+  },
+  "BardinMWeapon": {
+    "hidden": true
+  },
+  "BardinShields": {
+    "hidden": true
+  },
+  "SlayerWeapon": {
+    "hidden": true
+  },
+  "BardinCrossbow": {
+    "hidden": true
+  },
+  "BardinRWeapon": {
+    "hidden": true
+  },
+  "BardinTechWeapon": {
+    "hidden": true
+  },
+  "KerillianMWeapon": {
+    "hidden": true
+  },
+  "HandmaidenWeapon": {
+    "hidden": true
+  },
+  "KerillianRWeapon": {
+    "hidden": true
+  },
+  "ShadeWeapon": {
+    "hidden": true
+  },
+  "SOTTWeapon": {
+    "hidden": true
+  },
+  "SiennaMWeapon": {
+    "hidden": true
+  },
+  "SiennaRWeapon": {
+    "hidden": true
+  },
+  "SiennaFlameWeapon": {
+    "hidden": true
+  },
+  "NecromancerWeapon": {
+    "hidden": true
+  },
+  "KruberMWeapon": {
+    "hidden": true
+  },
+  "NoGrailWeapon": {
+    "hidden": true
+  },
+  "KruberSpear": {
+    "hidden": true
+  },
+  "GrailKnightWeapon": {
+    "hidden": true
+  },
+  "HuntsmanWeapon": {
+    "hidden": true
+  },
+  "KruberRWeapon": {
+    "hidden": true
+  },
+  "Chaos Wastes": {
+    "hidden": true,
+    "yaml_option": [
+      "Chaos_Wastes"
+    ]
+  },
+  "The Curse of Drachenfels": {
+    "hidden": true,
+    "yaml_option": [
+      "The_Curse_of_Drachenfels"
+    ]
+  },
+  "A Treacherous Adventure": {
+    "hidden": true,
+    "yaml_option": [
+      "A_Treacherous_Adventure"
+    ]
+  },
+  "Karak Azgaraz": {
+    "hidden": true,
+    "yaml_option": [
+      "Karak_Azgaraz"
+    ]
+  },
+  "Verminous Dreams": {
+    "hidden": true,
+    "yaml_option": [
+      "Verminous_Dreams"
+    ]
+  },
+  "Reikland Tales": {
+    "hidden": true,
+    "yaml_option": [
+      "Reikland_Tales"
+    ]
+  },
+  "Shadows Over Bogenhafen": {
+    "hidden": true,
+    "yaml_option": [
+      "Shadows_Over_Bogenhafen"
+    ]
+  },
+  "Back to Ubersreik": {
+    "hidden": true,
+    "yaml_option": [
+      "Back_to_Ubersreik"
+    ]
+  },
+  "Fortunes of War": {
+    "yaml_option": [
+      "Fortunes_of_War"
+    ]
+  },
+  "Winds of Magic": {
+    "hidden": true,
+    "yaml_option": [
+      "Winds_of_Magic"
+    ]
+  },
+  "Careersanity": {
+    "hidden": true,
+    "yaml_option": [
+      "Careersanity"
+    ]
+  }
+}

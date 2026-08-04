@@ -1,0 +1,139 @@
+{
+    "core": {
+        "death_link": {
+            "default": false
+        }
+    },
+    "user": {
+        "Add_Tomes": {
+            "type": "Toggle",
+            "default": true,
+            "description": [
+                "adds 3 Tome locations per mission"
+            ]
+        },
+        "Add_Grimoires": {
+            "type": "Toggle",
+            "default": true,
+            "description": [
+                "adds 2 Grimoire locations per mission"
+            ]
+        },
+        "Careersanity":{
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "Adds location for completing missions with each career",
+                "Note: the career items will be in the pool regardless of if this is enabled or not"
+            ]
+        },
+        "DLC_Careers": {
+            "type": "Toggle",
+            "default": true,
+            "description": [
+                "Adds the 5 DLC Careers and, if enabled, their weapons to the item pool"
+            ]
+        },
+        "Add_Weapon": {
+            "type": "Toggle",
+            "default": true,
+            "description": [
+                "adds individual weapons as items in the the item pool",
+                "This adds a LOT of items, make sure you have enough locations"
+            ]
+        },
+        "Back_To_Ubersreik_Weapons": {
+            "type": "Toggle",
+            "default": true,
+            "description": [
+                "adds Weapons from the Back to Ubersreik DLC to the item pool. does nothing if weapons are disabled"
+            ]
+        },
+        "Winds_of_Magic_Weapons": {
+            "type": "Toggle",
+            "default": true,
+            "description": [
+                "adds Weapons from the Winds of Magic DLC to the item pool. does nothing if weapons are disabled"
+            ]
+        },
+        "Forgotten_Relics": {
+            "type": "Toggle",
+            "default": true,
+            "description": [
+                "adds Weapons from the Forgotten Relics DLC to the item pool. does nothing if weapons are disabled"
+            ]
+        },
+        "Chaos_Wastes": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds expeditions from the chaos wastes DLC",
+                "must be enabled for the citadel of eternity goal"
+            ]
+        },
+        "The_Curse_of_Drachenfels": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds missions from the curse of drachenfells DLC"
+            ]
+        },
+        "A_Treacherous_Adventure": {
+            "type": "Toggle",
+            "default": false,
+            "descriptions": [
+                "adds missions from a treacherous adventure DLC"
+            ]
+        },
+        "Karak_Azgaraz": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds missions from the karak azgaraz DLC"
+            ]
+        },
+        "Verminous_Dreams": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds missions from the verminous dreams DLC"
+            ]
+        },
+        "Reikland_Tales": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds missions from the reikland tales DLC"
+            ]
+        },
+        "Shadows_Over_Bogenhafen": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds missions from the shadows over bogenhafen DLC"
+            ]
+        },
+        "Back_to_Ubersreik": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds missions from the back to ubersreik DLC"
+            ]
+        },
+        "Fortunes_of_War": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds the fortunes of war wave survival mission from the back to ubersreik DLC"
+            ]
+        },
+        "Winds_of_Magic": {
+            "type": "Toggle",
+            "default": false,
+            "description": [
+                "adds missions from the winds of magic DLC",
+                "adds locations involving beastmen"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1399 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Righteous Stand",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Convocation of Decay",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hunger in The Dark",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Halescourge",
+      "category": [
+        "Helmgart",
+        "LordMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Athel Yenlui",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Screaming Bell",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fort Brachsenbrucke",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Into The Nest",
+      "category": [
+        "Helmgart",
+        "LordMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Against The Grain",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Empire in Flames",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Festering Ground",
+      "category": [
+        "Helmgart",
+        "StandardMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The War Camp",
+      "category": [
+        "Helmgart",
+        "LordMission",
+        "Mission"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Skittergate",
+      "category": [
+        "Helmgart"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Witch Hunter Captain",
+      "category": [
+        "Victor Saltzpyre Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bounty Hunter",
+      "category": [
+        "Victor Saltzpyre Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Zealot",
+      "category": [
+        "Victor Saltzpyre Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Warrior Priest of Sigmar",
+      "category": [
+        "Victor Saltzpyre Careers",
+        "Hero",
+        "DLC Careers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ranger Veteran",
+      "category": [
+        "Bardin Goreksson Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ironbreaker",
+      "category": [
+        "Bardin Goreksson Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Slayer",
+      "category": [
+        "Bardin Goreksson Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Outcast Engineer",
+      "category": [
+        "Bardin Goreksson Careers",
+        "Hero",
+        "DLC Careers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Waystalker",
+      "category": [
+        "Kerillian Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Handmaiden",
+      "category": [
+        "Kerillian Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shade",
+      "category": [
+        "Kerillian Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sister of the Thorn",
+      "category": [
+        "Kerillian Careers",
+        "Hero",
+        "DLC Careers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Battle Wizard",
+      "category": [
+        "Sienna Fuegonasus Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pyromancer",
+      "category": [
+        "Sienna Fuegonasus Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Unchained",
+      "category": [
+        "Sienna Fuegonasus Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Necromancer",
+      "category": [
+        "Sienna Fuegonasus Careers",
+        "Hero",
+        "DLC Careers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mercenary",
+      "category": [
+        "Markus Kruber Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Huntsman",
+      "category": [
+        "Markus Kruber Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Foot Knight",
+      "category": [
+        "Markus Kruber Careers",
+        "Hero"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grail Knight",
+      "category": [
+        "Markus Kruber Careers",
+        "Hero",
+        "DLC Careers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rapier",
+      "category": [
+        "Weapon",
+        "ViktorMWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Falchion",
+      "category": [
+        "Weapon",
+        "ViktorMWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Axe (Viktor Saltzpye)",
+      "category": [
+        "Weapon",
+        "ViktorMWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Greatsword (Viktor Saltzpyre)",
+      "category": [
+        "Weapon",
+        "ViktorMWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Flail",
+      "category": [
+        "Weapon",
+        "ViktorMWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Axe and Falchion",
+      "category": [
+        "Weapon",
+        "ViktorMWeapon",
+        "Back to Ubersreik Weapons",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Billhook",
+      "category": [
+        "Weapon",
+        "ViktorMWeapon",
+        "Winds of Magic Weapons",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Flail and Shield",
+      "category": [
+        "Weapon",
+        "WarriorPriestWeapon",
+        "DLC Careers",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Reckoner Great Hammer",
+      "category": [
+        "Weapon",
+        "WarriorPriestWeapon",
+        "DLC Careers",
+        "ZealotWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Paired Skull-Splitters",
+      "category": [
+        "Weapon",
+        "WarriorPriestWeapon",
+        "DLC Careers",
+        "ZealotWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Skull-Splitter and Tome",
+      "category": [
+        "Weapon",
+        "WarriorPriestWeapon",
+        "DLC Careers",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Skull-Splitter and Shield",
+      "category": [
+        "Weapon",
+        "WarriorPriestWeapon",
+        "DLC Careers",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Skull-Splitter Hammer",
+      "category": [
+        "Weapon",
+        "WarriorPriestWeapon",
+        "DLC Careers",
+        "ZealotWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Brace of Pistols",
+      "category": [
+        "Weapon",
+        "ViktorRWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Volley Crossbow (Viktor Saltzpyre)",
+      "category": [
+        "Weapon",
+        "ViktorRWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Repeater Pistol",
+      "category": [
+        "Weapon",
+        "ViktorRWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crossbow (Viktor Saltspyre)",
+      "category": [
+        "Weapon",
+        "ViktorRWeapon",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Griffonfoot Pistols",
+      "category": [
+        "Weapon",
+        "ViktorRWeapon",
+        "Forgotten Relics",
+        "Viktor Saltzpyre Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Great Hammer (Bardin Goreksson)",
+      "category": [
+        "Weapon",
+        "BardinMWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Great Axe",
+      "category": [
+        "Weapon",
+        "BardinMWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Axe (Bardin Goreksson)",
+      "category": [
+        "Weapon",
+        "BardinMWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hammer",
+      "category": [
+        "Weapon",
+        "BardinMWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "War Pick",
+      "category": [
+        "Weapon",
+        "BardinMWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Axe and Shield",
+      "category": [
+        "Weapon",
+        "BardinShields",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hammer and Shield",
+      "category": [
+        "Weapon",
+        "BardinShields",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dual Axes",
+      "category": [
+        "Weapon",
+        "SlayerWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dual Hammers",
+      "category": [
+        "Weapon",
+        "BardinMWeapon",
+        "Back to Ubersreik Weapons",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cog Hammer",
+      "category": [
+        "Weapon",
+        "BardinMWeapon",
+        "DLC Careers",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Throwing Axes",
+      "category": [
+        "Weapon",
+        "SlayerWeapon",
+        "Winds of Magic Weapons",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crossbow (Bardin Goreksson)",
+      "category": [
+        "Weapon",
+        "BardinCrossbow",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Handgun (Bardin Goreksson)",
+      "category": [
+        "Weapon",
+        "BardinRWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Drakefire Pistols",
+      "category": [
+        "Weapon",
+        "BardinTechWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Drakegun",
+      "category": [
+        "Weapon",
+        "BardinTechWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grudge-Raker",
+      "category": [
+        "Weapon",
+        "BardinRWeapon",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Masterwork Pistol",
+      "category": [
+        "Weapon",
+        "BardinRWeapon",
+        "DLC Careers",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trollhammer Torpedo",
+      "category": [
+        "Weapon",
+        "BardinTechWeapon",
+        "Forgotten Relics",
+        "Bardin Goreksson Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sword (Kerillian)",
+      "category": [
+        "Weapon",
+        "KerillianMWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dual Daggers",
+      "category": [
+        "Weapon",
+        "KerillianMWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dual Swords",
+      "category": [
+        "Weapon",
+        "KerillianMWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sword and Dagger",
+      "category": [
+        "Weapon",
+        "KerillianMWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Glaive",
+      "category": [
+        "Weapon",
+        "KerillianMWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Greatsword (Kerillian)",
+      "category": [
+        "Weapon",
+        "KerillianMWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Elven Spear",
+      "category": [
+        "Weapon",
+        "KerillianMWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Elven Axe",
+      "category": [
+        "Weapon",
+        "KerillianMWeapon",
+        "Back to Ubersreik Weapons",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spear and Shield (Kerillian)",
+      "category": [
+        "Weapon",
+        "HandmaidenWeapon",
+        "Winds of Magic Weapons",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Swiftbow",
+      "category": [
+        "Weapon",
+        "KerillianRWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Longbow (Kerillian)",
+      "category": [
+        "Weapon",
+        "KerillianRWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hagbane Shortbow",
+      "category": [
+        "Weapon",
+        "KerillianRWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Volley Crossbow (Kerillian)",
+      "category": [
+        "Weapon",
+        "ShadeWeapon",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Moonfire Bow",
+      "category": [
+        "Weapon",
+        "KerillianRWeapon",
+        "Forgotten Relics",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Briar Javelin",
+      "category": [
+        "Weapon",
+        "KerillianRWeapon",
+        "DLC Careers",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Deepwood Staff",
+      "category": [
+        "Weapon",
+        "SOTTWeapon",
+        "DLC Careers",
+        "Kerillian Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sword (Sienna Fuegonasus)",
+      "category": [
+        "Weapon",
+        "SiennaMWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mace (Sienna Fuegonasus)",
+      "category": [
+        "Weapon",
+        "SiennaMWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fire Sword",
+      "category": [
+        "Weapon",
+        "SiennaMWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dagger",
+      "category": [
+        "Weapon",
+        "SiennaMWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crowbill",
+      "category": [
+        "Weapon",
+        "SiennaMWeapon",
+        "Back to Ubersreik Weapons",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Flaming Flail",
+      "category": [
+        "Weapon",
+        "SiennaMWeapon",
+        "Winds of Magic Weapons",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ensorcelled Reaper",
+      "category": [
+        "Weapon",
+        "SiennaMWeapon",
+        "DLC Careers",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fireball Staff",
+      "category": [
+        "Weapon",
+        "SiennaRWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Flamestorm Staff",
+      "category": [
+        "Weapon",
+        "SiennaFlameWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bolt Staff",
+      "category": [
+        "Weapon",
+        "SiennaRWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Beam Staff",
+      "category": [
+        "Weapon",
+        "SiennaRWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Conflagration Staff",
+      "category": [
+        "Weapon",
+        "SiennaRWeapon",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Coruscation Staff",
+      "category": [
+        "Weapon",
+        "SiennaRWeapon",
+        "Forgotten Relics",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Soulstealer Staff",
+      "category": [
+        "Weapon",
+        "NecromancerWeapon",
+        "DLC Careers",
+        "Sienna Fuegonasus Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Greatsword (Markus Kruber)",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Halberd",
+      "category": [
+        "Weapon",
+        "NoGrailWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sword (Markus Kruber)",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Executioner Sword",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Great Hammer (Markus Kruber)",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sword and Shield",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mace (Markus Kruber)",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mace and Shield",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mace and Sword",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "Back to Ubersreik Weapons",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tuskgor Spear",
+      "category": [
+        "Weapon",
+        "KruberSpear",
+        "Winds of Magic Weapons",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bretonnian Longsword",
+      "category": [
+        "Weapon",
+        "KruberMWeapon",
+        "DLC Careers",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bretonian Sword and Shield",
+      "category": [
+        "Weapon",
+        "GrailKnightWeapon",
+        "DLC Careers",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spear and Shield (Markus Kruber)",
+      "category": [
+        "Weapon",
+        "NoGrailWeapon",
+        "Forgotten Relics",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blunderbus",
+      "category": [
+        "Weapon",
+        "KruberRWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Handgun (Markus Kruber)",
+      "category": [
+        "Weapon",
+        "KruberRWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Longbow (Markus Kruber)",
+      "category": [
+        "Weapon",
+        "HuntsmanWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Repeater Handgun",
+      "category": [
+        "Weapon",
+        "KruberRWeapon",
+        "Markus Kruber Weapons"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Expedition of Fortitude",
+      "category": [
+        "Mission",
+        "Chaos Wastes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Expedition of Courage",
+      "category": [
+        "Mission",
+        "Chaos Wastes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Expedition of Determination",
+      "category": [
+        "Mission",
+        "Chaos Wastes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Expedition to the Citadel of Eternity",
+      "category": [
+        "Mission",
+        "Chaos Wastes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Old Haunts",
+      "category": [
+        "Mission",
+        "The Curse of Drachenfels"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blood in the Darkness",
+      "category": [
+        "Mission",
+        "The Curse of Drachenfels"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Enchanter's Lair",
+      "category": [
+        "Mission",
+        "LordMission",
+        "The Curse of Drachenfels"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trail of Treachery",
+      "category": [
+        "Mission",
+        "A Treacherous Adventure"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tower of Treachery",
+      "category": [
+        "Mission",
+        "LordMission",
+        "A Treacherous Adventure"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mission of Mercy",
+      "category": [
+        "Mission",
+        "Karak Azgaraz"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "A Grudge Served Cold",
+      "category": [
+        "Mission",
+        "Karak Azgaraz"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Khazukan Kazakit-Ha!",
+      "category": [
+        "Mission",
+        "Karak Azgaraz"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "A Parting of the Waves",
+      "category": [
+        "Mission",
+        "Karak Azgaraz"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Forsaken Temple",
+      "category": [
+        "Mission",
+        "Verminous Dreams"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Devious Delvings",
+      "category": [
+        "Mission",
+        "Verminous Dreams"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Well of Dreams",
+      "category": [
+        "Mission",
+        "Verminous Dreams"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Return to the Reik",
+      "category": [
+        "Mission",
+        "Reikland Tales"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Pit",
+      "category": [
+        "Mission",
+        "Shadows Over Bogenhafen"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Blightreaper",
+      "category": [
+        "Mission",
+        "Shadows Over Bogenhafen"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Horn of Magnus",
+      "category": [
+        "Mission",
+        "Back to Ubersreik"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Garden of Morr",
+      "category": [
+        "Mission",
+        "Back to Ubersreik"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Engines of War",
+      "category": [
+        "Mission",
+        "Back to Ubersreik"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fortunes of War",
+      "category": [
+        "Mission",
+        "Back to Ubersreik",
+        "Fortunes of War"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Omens",
+      "category": [
+        "Mission",
+        "Winds of Magic"
+      ],
+      "progression": true
+    }
+  ]
+}

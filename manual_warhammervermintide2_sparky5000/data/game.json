@@ -1,0 +1,325 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "WarhammerVermintide2",
+  "creator": "Sparky5000",
+  "filler_item_name": "Ravaged Art",
+  "starting_items": [
+    {
+      "item_categories": [
+        "StandardMission"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Hero"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Witch Hunter Captain",
+        "Bounty Hunter"
+      ],
+      "item_categories": [
+        "ViktorMWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Witch Hunter Captain",
+        "Bounty Hunter",
+        "Zealot"
+      ],
+      "item_categories": [
+        "ViktorRWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Zealot"
+      ],
+      "item_categories": [
+        "ViktorMWeapon",
+        "SlayerWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Warrior Priest of Sigmar"
+      ],
+      "item_categories": [
+        "WarriorPriestWeapon"
+      ],
+      "random": 2
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Ranger Veteran",
+        "Ironbreaker",
+        "Outcast Engineer"
+      ],
+      "item_categories": [
+        "BardinMWeapon",
+        "BardinShields"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Ranger Veteran"
+      ],
+      "item_categories": [
+        "BardinRWeapon",
+        "BardinCrossbow"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Ironbreaker"
+      ],
+      "item_categories": [
+        "BardinRWeapon",
+        "BardinCrossbow",
+        "BardinTechWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Slayer"
+      ],
+      "item_categories": [
+        "BardinMWeapon",
+        "SlayerWeapon"
+      ],
+      "random": 2
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Outcast Engineer"
+      ],
+      "item_categories": [
+        "BardinRWeapon",
+        "BardinTechWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Waystalker",
+        "Shade",
+        "Sister of the Thorn"
+      ],
+      "item_categories": [
+        "KerillianMWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Waystalker",
+        "Handmaiden"
+      ],
+      "item_categories": [
+        "KerillianRWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Handmaiden"
+      ],
+      "item_categories": [
+        "KerillianMWeapon",
+        "HandmaidenWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Shade"
+      ],
+      "item_categories": [
+        "KerillianRWeapon",
+        "ShadeWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Sister of the Thorn"
+      ],
+      "item_categories": [
+        "KerillianRWeapon",
+        "SOTTWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Battle Wizard",
+        "Pyromancer",
+        "Unchained",
+        "Necromancer"
+      ],
+      "item_categories": [
+        "SiennaMWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Battle Wizard",
+        "Pyromancer",
+        "Unchained"
+      ],
+      "item_categories": [
+        "SiennaRWeapon",
+        "SiennaFlameWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Necromancer"
+      ],
+      "item_categories": [
+        "SiennaRWeapon",
+        "NecromancerWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Mercenary",
+        "Huntsman"
+      ],
+      "item_categories": [
+        "KruberMWeapon",
+        "NoGrailWeapon",
+        "KruberSpear"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Mercenary",
+        "Foot Knight"
+      ],
+      "item_categories": [
+        "KruberRWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Huntsman"
+      ],
+      "item_categories": [
+        "KruberRWeapon",
+        "HuntsmanWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Foot Knight"
+      ],
+      "item_categories": [
+        "KruberMWeapon",
+        "NoGrailWeapon"
+      ],
+      "random": 1
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "if_previous_item": [
+        "Grail Knight"
+      ],
+      "item_categories": [
+        "KruberMWeapon",
+        "GrailKnightWeapon"
+      ],
+      "random": 2
+    },
+    {
+      "yaml_option": [
+        "Add_Weapon"
+      ],
+      "item_categories": [
+        "Weapon"
+      ],
+      "random": 2
+    }
+  ]
+}

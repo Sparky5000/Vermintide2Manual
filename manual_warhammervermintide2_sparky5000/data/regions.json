@@ -1,0 +1,151 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Righteous Stand": {
+    "connects_to": [],
+    "requires": "|Righteous Stand|"
+  },
+  "Convocation of Decay": {
+    "connects_to": [],
+    "requires": "|Convocation of Decay|"
+  },
+  "Hunger in The Dark": {
+    "connects_to": [],
+    "requires": "|Hunger in The Dark|"
+  },
+  "Halescourge": {
+    "connects_to": [],
+    "requires": "|Halescourge|"
+  },
+  "Athel Yenlui": {
+    "connects_to": [],
+    "requires": "|Athel Yenlui|"
+  },
+  "The Screaming Bell": {
+    "connects_to": [],
+    "requires": "|The Screaming Bell|"
+  },
+  "Fort Brachsenbrucke": {
+    "connects_to": [],
+    "requires": "|Fort Brachsenbrucke|"
+  },
+  "Into The Nest": {
+    "connects_to": [],
+    "requires": "|Into The Nest|"
+  },
+  "Against The Grain": {
+    "connects_to": [],
+    "requires": "|Against The Grain|"
+  },
+  "Empire in Flames": {
+    "connects_to": [],
+    "requires": "|Empire in Flames|"
+  },
+  "Festering Ground": {
+    "connects_to": [],
+    "requires": "|Festering Ground|"
+  },
+  "The War Camp": {
+    "connects_to": [],
+    "requires": "|The War Camp|"
+  },
+  "The Skittergate": {
+    "connects_to": [],
+    "requires": "|The Skittergate| AND |@LordMission:3|"
+  },
+  "Fortitude": {
+    "connects_to": [],
+    "requires": "|Expedition of Fortitude|"
+  },
+  "Courage": {
+    "connects_to": [],
+    "requires": "|Expedition of Courage|"
+  },
+  "Determination": {
+    "connects_to": [],
+    "requires": "|Expedition of Determination|"
+  },
+  "CitadelofEternity": {
+    "connects_to": [],
+    "requires": "|Expedition to the Citadel of Eternity| AND |Expedition of Fortitude| AND |Expedition of Courage| AND |Expedition of Determination|"
+  },
+  "Trail of Treachery": {
+    "connects_to": [],
+    "requires": "|Trail of Treachery|"
+  },
+  "Tower of Treachery": {
+    "connects_to": [],
+    "requires": "|Tower of Treachery|"
+  },
+  "Mission of Mercy": {
+    "connects_to": [],
+    "requires": "|Mission of Mercy|"
+  },
+  "A Grudge Served Cold": {
+    "connects_to": [],
+    "requires": "|A Grudge Served Cold|"
+  },
+  "Khazukan Kazakit-Ha!": {
+    "connects_to": [],
+    "requires": "|Khazukan Kazakit-Ha!|"
+  },
+  "A Parting of the Waves": {
+    "connects_to": [],
+    "requires": "|A Parting of the Waves|"
+  },
+  "The Forsaken Temple": {
+    "connects_to": [],
+    "requires": "|The Forsaken Temple|"
+  },
+  "Devious Delvings": {
+    "connects_to": [],
+    "requires": "|Devious Delvings|"
+  },
+  "The Well of Dreams": {
+    "connects_to": [],
+    "requires": "|The Well of Dreams|"
+  },
+  "Return to the Reik": {
+    "connects_to": [],
+    "requires": "|Return to the Reik|"
+  },
+  "The Pit": {
+    "connects_to": [],
+    "requires": "|The Pit|"
+  },
+  "The Blightreaper": {
+    "connects_to": [],
+    "requires": "|The Blightreaper|"
+  },
+  "The Horn of Magnus": {
+    "connects_to": [],
+    "requires": "|The Horn of Magnus|"
+  },
+  "Garden of Morr": {
+    "connects_to": [],
+    "requires": "|Garden of Morr|"
+  },
+  "Engines of War": {
+    "connects_to": [],
+    "requires": "|Engines of War|"
+  },
+  "Fortunes of War": {
+    "connects_to": [],
+    "requires": "|Fortunes of War|"
+  },
+  "Dark Omens": {
+    "connects_to": [],
+    "requires": "|Dark Omens|"
+  },
+  "Old Haunts": {
+    "connects_to": [],
+    "requires": "|Old Haunts|"
+  },
+  "Blood in the Darkness": {
+    "connects_to": [],
+    "requires": "|Blood in the Darkness|"
+  },
+  "The Enchanters Lair": {
+    "connects_to": [],
+    "requires": "|The Enchanter's Lair|"
+  }
+}

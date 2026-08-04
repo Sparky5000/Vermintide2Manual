@@ -1,0 +1,2587 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Complete The Mission (Righteous Stand)",
+      "region": "Righteous Stand",
+      "category": [
+        "Righteous Stand"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Righteous Stand)",
+      "region": "Righteous Stand",
+      "category": [
+        "Righteous Stand",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Righteous Stand",
+      "name": "Tome 2 (Righteous Stand)",
+      "category": [
+        "Righteous Stand",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Righteous Stand)",
+      "region": "Righteous Stand",
+      "category": [
+        "Righteous Stand",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Righteous Stand)",
+      "region": "Righteous Stand",
+      "category": [
+        "Righteous Stand",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Righteous Stand)",
+      "region": "Righteous Stand",
+      "category": [
+        "Righteous Stand",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (Convocation of Decay)",
+      "region": "Convocation of Decay",
+      "category": [
+        "Convocation of Decay"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Convocation of Decay)",
+      "region": "Convocation of Decay",
+      "category": [
+        "Convocation of Decay",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Convocation of Decay)",
+      "region": "Convocation of Decay",
+      "category": [
+        "Convocation of Decay",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Convocation of Decay)",
+      "region": "Convocation of Decay",
+      "category": [
+        "Convocation of Decay",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Convocation of Decay)",
+      "region": "Convocation of Decay",
+      "category": [
+        "Convocation of Decay",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Convocation of Decay)",
+      "region": "Convocation of Decay",
+      "category": [
+        "Convocation of Decay",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (Hunger in The Dark)",
+      "region": "Hunger in The Dark",
+      "category": [
+        "Hunger in The Dark"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Hunger in The Dark)",
+      "region": "Hunger in The Dark",
+      "category": [
+        "Hunger in The Dark",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Hunger in The Dark)",
+      "region": "Hunger in The Dark",
+      "category": [
+        "Hunger in The Dark",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Hunger in The Dark)",
+      "region": "Hunger in The Dark",
+      "category": [
+        "Hunger in The Dark",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Hunger in The Dark)",
+      "region": "Hunger in The Dark",
+      "category": [
+        "Hunger in The Dark",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Hunger in The Dark)",
+      "region": "Hunger in The Dark",
+      "category": [
+        "Hunger in The Dark",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (Halescourge)",
+      "region": "Halescourge",
+      "category": [
+        "Halescourge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Halescourge)",
+      "region": "Halescourge",
+      "category": [
+        "Halescourge",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Halescourge)",
+      "region": "Halescourge",
+      "category": [
+        "Halescourge",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Halescourge)",
+      "region": "Halescourge",
+      "category": [
+        "Halescourge",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Halescourge)",
+      "region": "Halescourge",
+      "category": [
+        "Halescourge",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Halescourge)",
+      "region": "Halescourge",
+      "category": [
+        "Halescourge",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (Athel Yenlui)",
+      "region": "Athel Yenlui",
+      "category": [
+        "Athel Yenlui"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Athel Yenlui)",
+      "region": "Athel Yenlui",
+      "category": [
+        "Athel Yenlui",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Athel Yenlui)",
+      "region": "Athel Yenlui",
+      "category": [
+        "Athel Yenlui",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Athel Yenlui)",
+      "region": "Athel Yenlui",
+      "category": [
+        "Athel Yenlui",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Athel Yenlui)",
+      "region": "Athel Yenlui",
+      "category": [
+        "Athel Yenlui",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Athel Yenlui)",
+      "region": "Athel Yenlui",
+      "category": [
+        "Athel Yenlui",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (The Screaming Bell)",
+      "region": "The Screaming Bell",
+      "category": [
+        "The Screaming Bell"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (The Screaming Bell)",
+      "region": "The Screaming Bell",
+      "category": [
+        "The Screaming Bell",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The Screaming Bell)",
+      "region": "The Screaming Bell",
+      "category": [
+        "The Screaming Bell",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The Screaming Bell)",
+      "region": "The Screaming Bell",
+      "category": [
+        "The Screaming Bell",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The Screaming Bell)",
+      "region": "The Screaming Bell",
+      "category": [
+        "The Screaming Bell",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The Screaming Bell)",
+      "region": "The Screaming Bell",
+      "category": [
+        "The Screaming Bell",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Fort Brachsenbrucke)",
+      "region": "Fort Brachsenbrucke",
+      "category": [
+        "Fort Brachsenbrucke"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Fort Brachsenbrucke)",
+      "region": "Fort Brachsenbrucke",
+      "category": [
+        "Fort Brachsenbrucke",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Fort Brachsenbrucke)",
+      "region": "Fort Brachsenbrucke",
+      "category": [
+        "Fort Brachsenbrucke",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Fort Brachsenbrucke)",
+      "region": "Fort Brachsenbrucke",
+      "category": [
+        "Fort Brachsenbrucke",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Fort Brachsenbrucke)",
+      "region": "Fort Brachsenbrucke",
+      "category": [
+        "Fort Brachsenbrucke",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Fort Brachsenbrucke)",
+      "region": "Fort Brachsenbrucke",
+      "category": [
+        "Fort Brachsenbrucke",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (Into The Nest)",
+      "region": "Into The Nest",
+      "category": [
+        "Into The Nest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Into The Nest)",
+      "region": "Into The Nest",
+      "category": [
+        "Into The Nest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Into The Nest)",
+      "region": "Into The Nest",
+      "category": [
+        "Into The Nest",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Into The Nest)",
+      "region": "Into The Nest",
+      "category": [
+        "Into The Nest",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Into The Nest)",
+      "region": "Into The Nest",
+      "category": [
+        "Into The Nest",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Into The Nest)",
+      "region": "Into The Nest",
+      "category": [
+        "Into The Nest",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Against The Grain)",
+      "region": "Against The Grain",
+      "category": [
+        "Against the Grain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Against The Grain)",
+      "region": "Against The Grain",
+      "category": [
+        "Against the Grain",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Against The Grain)",
+      "region": "Against The Grain",
+      "category": [
+        "Against the Grain",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Against The Grain)",
+      "region": "Against The Grain",
+      "category": [
+        "Against the Grain",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Against The Grain)",
+      "region": "Against The Grain",
+      "category": [
+        "Against the Grain",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Against The Grain)",
+      "region": "Against The Grain",
+      "category": [
+        "Against the Grain",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Level (Empire in Flames)",
+      "region": "Empire in Flames",
+      "category": [
+        "Empire in Flames"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Empire in Flames)",
+      "region": "Empire in Flames",
+      "category": [
+        "Empire in Flames",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Empire in Flames)",
+      "region": "Empire in Flames",
+      "category": [
+        "Empire in Flames",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Empire in Flames)",
+      "region": "Empire in Flames",
+      "category": [
+        "Empire in Flames",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Empire in Flames)",
+      "region": "Empire in Flames",
+      "category": [
+        "Empire in Flames",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Empire in Flames)",
+      "region": "Empire in Flames",
+      "category": [
+        "Empire in Flames",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (Festering Ground)",
+      "region": "Festering Ground",
+      "category": [
+        "Festering Ground"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Festering Ground)",
+      "region": "Festering Ground",
+      "category": [
+        "Festering Ground",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Festering Ground)",
+      "region": "Festering Ground",
+      "category": [
+        "Festering Ground",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Festering Ground)",
+      "region": "Festering Ground",
+      "category": [
+        "Festering Ground",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Festering Ground)",
+      "region": "Festering Ground",
+      "category": [
+        "Festering Ground",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Festering Ground)",
+      "region": "Festering Ground",
+      "category": [
+        "Festering Ground",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (The War Camp)",
+      "region": "The War Camp",
+      "category": [
+        "The War Camp"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (The War Camp)",
+      "region": "The War Camp",
+      "category": [
+        "The War Camp",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The War Camp)",
+      "region": "The War Camp",
+      "category": [
+        "The War Camp",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The War Camp)",
+      "region": "The War Camp",
+      "category": [
+        "The War Camp",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The War Camp)",
+      "region": "The War Camp",
+      "category": [
+        "The War Camp",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The War Camp)",
+      "region": "The War Camp",
+      "category": [
+        "The War Camp",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (The Skittergate)",
+      "region": "The Skittergate",
+      "category": [
+        "The Skittergate (Must slay 3 lords to access)",
+        "Victory"
+      ],
+      "requires": "",
+      "victory": true
+    },
+    {
+      "name": "Tome 1 (The Skittergate)",
+      "region": "The Skittergate",
+      "category": [
+        "The Skittergate (Must slay 3 lords to access)",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The Skittergate)",
+      "region": "The Skittergate",
+      "category": [
+        "The Skittergate (Must slay 3 lords to access)",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The Skittergate)",
+      "region": "The Skittergate",
+      "category": [
+        "The Skittergate (Must slay 3 lords to access)",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The Skittergate)",
+      "region": "The Skittergate",
+      "category": [
+        "The Skittergate (Must slay 3 lords to access)",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The Skittergate)",
+      "region": "The Skittergate",
+      "category": [
+        "The Skittergate (Must slay 3 lords to access)",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Slay Burblespue Halescourge",
+      "region": "Halescourge",
+      "category": [
+        "Halescourge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Slay Skarrik Spinemanglr",
+      "region": "Into The Nest",
+      "category": [
+        "Into The Nest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Slay Bodvarr Ribspreader",
+      "region": "The War Camp",
+      "category": [
+        "The War Camp"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Slay Rasknitt and Deathrattler",
+      "region": "The Skittergate",
+      "category": [
+        "The Skittergate (Must slay 3 lords to access)"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Slay a Rat Ogre",
+      "category": [
+        "Slay Monster"
+      ],
+      "requires": "|@Mission:5| OR |The Screaming Bell|"
+    },
+    {
+      "name": "Slay a Stormfiend",
+      "category": [
+        "Slay Monster"
+      ],
+      "requires": "|@Mission:5|"
+    },
+    {
+      "name": "Slay a Bile Troll",
+      "category": [
+        "Slay Monster"
+      ],
+      "requires": "|@Mission:5| OR |Hunger in The Dark|"
+    },
+    {
+      "name": "Slay a Chaos Spawn",
+      "category": [
+        "Slay Monster"
+      ],
+      "requires": "|@Mission:5|"
+    },
+    {
+      "name": "Slay Gatekeeper Naglfahr",
+      "region": "The Skittergate",
+      "category": [
+        "The Skittergate (Must slay 3 lords to access)"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Defeat a Scaven Patrol",
+      "category": [
+        "Slay Elite Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Chaos Warrior",
+      "category": [
+        "Slay Elite Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Defeat a pack of Plague Monks",
+      "category": [
+        "Slay Elite Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Chaos Warrior with Shield",
+      "category": [
+        "Slay Elite Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Poison Wind Globadier",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Ratling Gunner",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Gutter Runner",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Blightstormer",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Lifeleech",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Packmaster",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a Warpfire Thrower",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Complete a Mission as Viktor Saltzpyre",
+      "category": [
+        "Hero Checks"
+      ],
+      "requires": "|@Victor Saltzpyre Careers:1| AND ({YamlDisabled(Add_Weapon)} OR ((|Witch Hunter Captain| OR |Bounty Hunter|) AND |@ViktorMWeapon:1| AND |@ViktorRWeapon:1|) OR (|Zealot| AND (|@ViktorMWeapon:1| OR |@ZealotWeapon:1|) AND |@ViktorRWeapon:1|) OR (|Warrior Priest of Sigmar| AND |@WarriorPriestWeapon:2|))"
+    },
+    {
+      "name": "Complete a Mission as Bardin Goreksson",
+      "category": [
+        "Hero Checks"
+      ],
+      "requires": "|@Bardin Goreksson Careers:1| AND ({YamlDisabled(Add_Weapon)} OR (|Ranger Veteran| AND (|@BardinMWeapon:1| OR |@BardinShields:1|) AND (|@BardinRWeapon:1| OR |@BardinCrossbow:1|)) OR (|Ironbreaker| AND (|@BardinMWeapon:1| OR |@BardinShields:1|) AND (|@BardinRWeapon:1| OR |@BardinTechWeapon:1| OR |@BardinCrossbow:1|)) OR (|Slayer| AND (|@BardinMWeapon:2| OR |@SlayerWeapon:2| OR (|@BardinMWeapon:1| AND |@SlayerWeapon:1|))) OR (|Outcast Engineer| AND (|@BardinMWeapon:1| OR |@BardinShields:1|) AND (|@BardinRWeapon:1| OR |@BardinTechWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Kerillian",
+      "category": [
+        "Hero Checks"
+      ],
+      "requires": "|@Kerillian Careers:1| AND ({YamlDisabled(Add_Weapon)} OR (|Waystalker| AND |@KerillianMWeapon:1| AND |@KerillianRWeapon:1|) OR (|Handmaiden| AND (|@KerillianMWeapon:1| OR |@HandmaidenWeapon:1|) AND |@KerillianRWeapon:1|) OR (|Shade| AND |@KerillianMWeapon:1| AND (|@KerillianRWeapon:1| OR |@ShadeWeapon:1|)) OR (|Sister of the Thorn| AND |@KerillianMWeapon:1| AND (|@KerillianRWeapon:1| OR |@SOTTWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Sienna Fuegonasus",
+      "category": [
+        "Hero Checks"
+      ],
+      "requires": "|@Sienna Fuegonasus Careers:1| AND ({YamlDisabled(Add_Weapon)} OR ((|Battle Wizard| OR |Pyromancer| OR |Unchained|) AND |@SiennaMWeapon:1| AND (|@SiennaRWeapon:1| OR |@SiennaFlameWeapon:1|)) OR (|Necromancer| AND |@SiennaMWeapon:1| AND (|@SiennaRWeapon:1| OR |@NecromancerWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Markus Kruber",
+      "category": [
+        "Hero Checks"
+      ],
+      "requires": "|@Markus Kruber Careers:1| AND ({YamlDisabled(Add_Weapon)} OR (|Mercenary| AND (|@KruberMWeapon:1| OR |@NoGrailWeapon:1| OR |@KruberSpear:1|) AND |@KruberRWeapon:1|) OR (|Huntsman| AND (|@KruberMWeapon:1| OR |@NoGrailWeapon:1| OR |@KruberSpear:1|) AND (|@KruberRWeapon:1| OR |@HuntsmanWeapon:1|)) OR (|Foot Knight| AND (|@KruberMWeapon:1| OR |@NoGrailWeapon:1|) AND |@KruberRWeapon:1|) OR (|Grail Knight| AND (|@KruberMWeapon:2| OR (|@KruberMWeapon:1| AND |@GrailKnightWeapon:1|))))"
+    },
+    {
+      "name": "Slay a Minotaur",
+      "category": [
+        "Slay Monster",
+        "Winds of Magic"
+      ],
+      "requires": "|@Mission:6|"
+    },
+    {
+      "name": "Slay 10 Monsters",
+      "category": [
+        "Slay Monster"
+      ],
+      "requires": "|@Mission:10|"
+    },
+    {
+      "name": "Slay a Bestigor",
+      "category": [
+        "Slay Elite Enemies",
+        "Winds of Magic"
+      ],
+      "requires": "|@Mission:4|"
+    },
+    {
+      "name": "Slay a total of 25 Elites",
+      "category": [
+        "Slay Elite Enemies"
+      ],
+      "requires": "|@Mission:5|"
+    },
+    {
+      "name": "Slay a total of 50 Elites",
+      "category": [
+        "Slay Elite Enemies"
+      ],
+      "requires": "|@Mission:8|"
+    },
+    {
+      "name": "Slay a total of 100 Elites",
+      "category": [
+        "Slay Elite Enemies",
+        "Legend"
+      ],
+      "requires": "|@Mission:10|"
+    },
+    {
+      "name": "Slay a total of 10 Specials",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:3|"
+    },
+    {
+      "name": "Slay a total of 20 Specials",
+      "category": [
+        "Slay Special Enemies"
+      ],
+      "requires": "|@Mission:6|"
+    },
+    {
+      "name": "Slay a total of 50 Specials",
+      "category": [
+        "Slay Special Enemies",
+        "Legend"
+      ],
+      "requires": "|@Mission:9|"
+    },
+    {
+      "name": "Enter Catrinne's Secret Tower",
+      "category": [
+        "Taal's Horn Keep"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Jumping Puzzle",
+      "category": [
+        "Taal's Horn Keep"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 1 Clear (Expedition of Fortitude)",
+      "region": "Fortitude",
+      "category": [
+        "Expedition of Fortitude",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 2 Clear (Expedition of Fortitude)",
+      "region": "Fortitude",
+      "category": [
+        "Expedition of Fortitude",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 3 Clear (Expedition of Fortitude)",
+      "region": "Fortitude",
+      "category": [
+        "Expedition of Fortitude",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 4 Clear (Expedition of Fortitude)",
+      "region": "Fortitude",
+      "category": [
+        "Expedition of Fortitude",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 5 Clear (Expedition of Fortitude)",
+      "region": "Fortitude",
+      "category": [
+        "Expedition of Fortitude",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 6 Clear (Expedition of Fortitude)",
+      "region": "Fortitude",
+      "category": [
+        "Expedition of Fortitude",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 7 Arena of Fortitude Complete",
+      "region": "Fortitude",
+      "category": [
+        "Expedition of Fortitude",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 1 Clear (Expedition of Courage)",
+      "region": "Courage",
+      "category": [
+        "Expedition of Courage",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 2 Clear (Expedition of Courage)",
+      "region": "Courage",
+      "category": [
+        "Expedition of Courage",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 3 Clear (Expedition of Courage)",
+      "region": "Courage",
+      "category": [
+        "Expedition of Courage",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 4 Clear (Expedition of Courage)",
+      "region": "Courage",
+      "category": [
+        "Expedition of Courage",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 5 Clear (Expedition of Courage)",
+      "region": "Courage",
+      "category": [
+        "Expedition of Courage",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 6 Clear (Expedition of Courage)",
+      "region": "Courage",
+      "category": [
+        "Expedition of Courage",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 7 Arena of Courage Complete",
+      "region": "Courage",
+      "category": [
+        "Expedition of Courage",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Determination",
+      "name": "Stage 1 Clear (Expedition of Determination)",
+      "category": [
+        "Expedition of Determination",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 2 Clear (Expedition of Determination)",
+      "region": "Determination",
+      "category": [
+        "Expedition of Determination",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 3 Clear (Expedition of Determination)",
+      "region": "Determination",
+      "category": [
+        "Expedition of Determination",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 4 Clear (Expedition of Determination)",
+      "region": "Determination",
+      "category": [
+        "Expedition of Determination",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 5 Clear (Expedition of Determination)",
+      "region": "Determination",
+      "category": [
+        "Expedition of Determination",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 6 Clear (Expedition of Determination)",
+      "region": "Determination",
+      "category": [
+        "Expedition of Determination",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 7 Arena of Determination Complete",
+      "region": "Determination",
+      "category": [
+        "Expedition of Determination",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 1 Clear (Citadel of Eternity)",
+      "region": "CitadelofEternity",
+      "category": [
+        "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 2 Clear (Citadel of Eternity)",
+      "region": "CitadelofEternity",
+      "category": [
+        "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 3 Clear (Citadel of Eternity)",
+      "region": "CitadelofEternity",
+      "category": [
+        "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 4 Clear (Citadel of Eternity)",
+      "region": "CitadelofEternity",
+      "category": [
+        "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 5 Clear (Citadel of Eternity)",
+      "region": "CitadelofEternity",
+      "category": [
+        "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 6 Clear (Citadel of Eternity)",
+      "region": "CitadelofEternity",
+      "category": [
+        "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stage 7 Clear (Citadel of Eternity)",
+      "region": "CitadelofEternity",
+      "category": [
+        "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "Chaos Wastes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Citadel of Eternity",
+      "victory": true,
+      "region": "CitadelofEternity",
+      "category": [
+        "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "Victory"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Old Haunts)",
+      "region": "Old Haunts",
+      "category": [
+        "Old Haunts",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Old Haunts)",
+      "region": "Old Haunts",
+      "category": [
+        "Old Haunts",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Old Haunts)",
+      "region": "Old Haunts",
+      "category": [
+        "Old Haunts",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Old Haunts)",
+      "region": "Old Haunts",
+      "category": [
+        "Old Haunts",
+        "The Curse of Drachenfels",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Old Haunts)",
+      "region": "Old Haunts",
+      "category": [
+        "Old Haunts",
+        "The Curse of Drachenfels",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete The Mission (Old Haunts)",
+      "region": "Old Haunts",
+      "category": [
+        "Old Haunts",
+        "The Curse of Drachenfels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Blood in the Darkness)",
+      "region": "Blood in the Darkness",
+      "category": [
+        "Blood in the Darkness",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Blood in the Darkness)",
+      "region": "Blood in the Darkness",
+      "category": [
+        "Blood in the Darkness",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Blood in the Darkness)",
+      "region": "Blood in the Darkness",
+      "category": [
+        "Blood in the Darkness",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Blood in the Darkness)",
+      "region": "Blood in the Darkness",
+      "category": [
+        "Blood in the Darkness",
+        "The Curse of Drachenfels",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Blood in the Darkness)",
+      "region": "Blood in the Darkness",
+      "category": [
+        "Blood in the Darkness",
+        "The Curse of Drachenfels",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Blood in the Darkness)",
+      "region": "Blood in the Darkness",
+      "category": [
+        "Blood in the Darkness",
+        "The Curse of Drachenfels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (The Enchanter's Lair)",
+      "region": "The Enchanters Lair",
+      "category": [
+        "The Enchanter's Lair",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The Enchanter's Lair)",
+      "region": "The Enchanters Lair",
+      "category": [
+        "The Enchanter's Lair",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The Enchanter's Lair)",
+      "region": "The Enchanters Lair",
+      "category": [
+        "The Enchanter's Lair",
+        "The Curse of Drachenfels",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The Enchanter's Lair)",
+      "region": "The Enchanters Lair",
+      "category": [
+        "The Enchanter's Lair",
+        "The Curse of Drachenfels",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The Enchanter's Lair)",
+      "region": "The Enchanters Lair",
+      "category": [
+        "The Enchanter's Lair",
+        "The Curse of Drachenfels",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Slay Nurgloth the Eternal",
+      "region": "The Enchanters Lair",
+      "category": [
+        "The Enchanter's Lair",
+        "The Curse of Drachenfels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Enchanter's Lair)",
+      "region": "The Enchanters Lair",
+      "category": [
+        "The Enchanter's Lair",
+        "The Curse of Drachenfels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Trail of Treachery)",
+      "region": "Trail of Treachery",
+      "category": [
+        "Trail of Treachery",
+        "A Treacherous Adventure",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Trail of Treachery)",
+      "region": "Trail of Treachery",
+      "category": [
+        "Trail of Treachery",
+        "A Treacherous Adventure",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Trail of Treachery)",
+      "region": "Trail of Treachery",
+      "category": [
+        "Trail of Treachery",
+        "A Treacherous Adventure",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Trail of Treachery)",
+      "region": "Trail of Treachery",
+      "category": [
+        "Trail of Treachery",
+        "A Treacherous Adventure",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Trail of Treachery)",
+      "region": "Trail of Treachery",
+      "category": [
+        "Trail of Treachery",
+        "A Treacherous Adventure",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Trail of Treachery)",
+      "region": "Trail of Treachery",
+      "category": [
+        "Trail of Treachery",
+        "A Treacherous Adventure"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Tower of Treachery)",
+      "region": "Tower of Treachery",
+      "category": [
+        "Tower of Treachery",
+        "A Treacherous Adventure",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Tower of Treachery)",
+      "region": "Tower of Treachery",
+      "category": [
+        "Tower of Treachery",
+        "A Treacherous Adventure",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Tower of Treachery)",
+      "region": "Tower of Treachery",
+      "category": [
+        "Tower of Treachery",
+        "A Treacherous Adventure",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Tower of Treachery)",
+      "region": "Tower of Treachery",
+      "category": [
+        "Tower of Treachery",
+        "A Treacherous Adventure",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Tower of Treachery)",
+      "region": "Tower of Treachery",
+      "category": [
+        "Tower of Treachery",
+        "A Treacherous Adventure",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Slay Sofia Fuegonasus",
+      "region": "Tower of Treachery",
+      "category": [
+        "Tower of Treachery",
+        "A Treacherous Adventure"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Tower of Treachery)",
+      "region": "Tower of Treachery",
+      "category": [
+        "Tower of Treachery",
+        "A Treacherous Adventure"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Mission of Mercy)",
+      "region": "Mission of Mercy",
+      "category": [
+        "Mission of Mercy",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Mission of Mercy)",
+      "region": "Mission of Mercy",
+      "category": [
+        "Mission of Mercy",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Mission of Mercy)",
+      "region": "Mission of Mercy",
+      "category": [
+        "Mission of Mercy",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Mission of Mercy)",
+      "region": "Mission of Mercy",
+      "category": [
+        "Mission of Mercy",
+        "Karak Azgaraz",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Mission of Mercy)",
+      "region": "Mission of Mercy",
+      "category": [
+        "Mission of Mercy",
+        "Karak Azgaraz",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Mission of Mercy)",
+      "region": "Mission of Mercy",
+      "category": [
+        "Mission of Mercy",
+        "Karak Azgaraz"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (A Grudge Served Cold)",
+      "region": "A Grudge Served Cold",
+      "category": [
+        "A Grudge Served Cold",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (A Grudge Served Cold)",
+      "region": "A Grudge Served Cold",
+      "category": [
+        "A Grudge Served Cold",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (A Grudge Served Cold)",
+      "region": "A Grudge Served Cold",
+      "category": [
+        "A Grudge Served Cold",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (A Grudge Served Cold)",
+      "region": "A Grudge Served Cold",
+      "category": [
+        "A Grudge Served Cold",
+        "Karak Azgaraz",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (A Grudge Served Cold)",
+      "region": "A Grudge Served Cold",
+      "category": [
+        "A Grudge Served Cold",
+        "Karak Azgaraz",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (A Grudge Served Cold)",
+      "region": "A Grudge Served Cold",
+      "category": [
+        "A Grudge Served Cold",
+        "Karak Azgaraz"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Kazukan Kazakit-Ha!)",
+      "region": "Khazukan Kazakit-Ha!",
+      "category": [
+        "Kazukan Kazakit-Ha!",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Kazukan Kazakit-Ha!)",
+      "region": "Khazukan Kazakit-Ha!",
+      "category": [
+        "Kazukan Kazakit-Ha!",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Kazukan Kazakit-Ha!)",
+      "region": "Khazukan Kazakit-Ha!",
+      "category": [
+        "Kazukan Kazakit-Ha!",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Kazukan Kazakit-Ha!)",
+      "region": "Khazukan Kazakit-Ha!",
+      "category": [
+        "Kazukan Kazakit-Ha!",
+        "Karak Azgaraz",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Kazukan Kazakit-Ha!)",
+      "region": "Khazukan Kazakit-Ha!",
+      "category": [
+        "Kazukan Kazakit-Ha!",
+        "Karak Azgaraz",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Kazukan Kazakit-Ha!)",
+      "region": "Khazukan Kazakit-Ha!",
+      "category": [
+        "Kazukan Kazakit-Ha!",
+        "Karak Azgaraz"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (A Parting of the Waves)",
+      "region": "A Parting of the Waves",
+      "category": [
+        "A Parting of the waves",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (A Parting of the Waves)",
+      "region": "A Parting of the Waves",
+      "category": [
+        "A Parting of the waves",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (A Parting of the Waves)",
+      "region": "A Parting of the Waves",
+      "category": [
+        "A Parting of the waves",
+        "Karak Azgaraz",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (A Parting of the Waves)",
+      "region": "A Parting of the Waves",
+      "category": [
+        "A Parting of the waves",
+        "Karak Azgaraz",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (A Parting of the Waves)",
+      "region": "A Parting of the Waves",
+      "category": [
+        "A Parting of the waves",
+        "Karak Azgaraz",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (A Parting of the Waves)",
+      "region": "A Parting of the Waves",
+      "category": [
+        "A Parting of the waves",
+        "Karak Azgaraz"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (The Forsaken Temple)",
+      "region": "The Forsaken Temple",
+      "category": [
+        "The Forsaken Temple",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The Forsaken Temple)",
+      "region": "The Forsaken Temple",
+      "category": [
+        "The Forsaken Temple",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The Forsaken Temple)",
+      "region": "The Forsaken Temple",
+      "category": [
+        "The Forsaken Temple",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The Forsaken Temple)",
+      "region": "The Forsaken Temple",
+      "category": [
+        "The Forsaken Temple",
+        "Verminous Dreams",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The Forsaken Temple)",
+      "region": "The Forsaken Temple",
+      "category": [
+        "The Forsaken Temple",
+        "Verminous Dreams",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (The Forsaken Temple)",
+      "region": "The Forsaken Temple",
+      "category": [
+        "The Forsaken Temple",
+        "Verminous Dreams"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Devious Delvings)",
+      "region": "Devious Delvings",
+      "category": [
+        "Devious Delvings",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Devious Delvings)",
+      "region": "Devious Delvings",
+      "category": [
+        "Devious Delvings",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Devious Delvings)",
+      "region": "Devious Delvings",
+      "category": [
+        "Devious Delvings",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Devious Delvings)",
+      "region": "Devious Delvings",
+      "category": [
+        "Devious Delvings",
+        "Verminous Dreams",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Devious Delvings)",
+      "region": "Devious Delvings",
+      "category": [
+        "Devious Delvings",
+        "Verminous Dreams",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Devious Delvings)",
+      "region": "Devious Delvings",
+      "category": [
+        "Devious Delvings",
+        "Verminous Dreams"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (The Well of Dreams)",
+      "region": "The Well of Dreams",
+      "category": [
+        "The Well of Dreams",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The Well of Dreams)",
+      "region": "The Well of Dreams",
+      "category": [
+        "The Well of Dreams",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The Well of Dreams)",
+      "region": "The Well of Dreams",
+      "category": [
+        "The Well of Dreams",
+        "Verminous Dreams",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The Well of Dreams)",
+      "region": "The Well of Dreams",
+      "category": [
+        "The Well of Dreams",
+        "Verminous Dreams",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The Well of Dreams)",
+      "region": "The Well of Dreams",
+      "category": [
+        "The Well of Dreams",
+        "Verminous Dreams",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (The Well of Dreams)",
+      "region": "The Well of Dreams",
+      "category": [
+        "The Well of Dreams",
+        "Verminous Dreams"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Return to the Reik)",
+      "region": "Return to the Reik",
+      "category": [
+        "Return to the Reik",
+        "Reikland Tales",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Return to the Reik)",
+      "region": "Return to the Reik",
+      "category": [
+        "Return to the Reik",
+        "Reikland Tales",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Return to the Reik)",
+      "region": "Return to the Reik",
+      "category": [
+        "Return to the Reik",
+        "Reikland Tales",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Return to the Reik)",
+      "region": "Return to the Reik",
+      "category": [
+        "Return to the Reik",
+        "Reikland Tales",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Return to the Reik)",
+      "region": "Return to the Reik",
+      "category": [
+        "Return to the Reik",
+        "Reikland Tales",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Return to the Reik)",
+      "region": "Return to the Reik",
+      "category": [
+        "Return to the Reik",
+        "Reikland Tales"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (The Pit)",
+      "region": "The Pit",
+      "category": [
+        "The Pit",
+        "Shadows Over Bogenhafen",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The Pit)",
+      "region": "The Pit",
+      "category": [
+        "The Pit",
+        "Shadows Over Bogenhafen",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The Pit)",
+      "region": "The Pit",
+      "category": [
+        "The Pit",
+        "Shadows Over Bogenhafen",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The Pit)",
+      "region": "The Pit",
+      "category": [
+        "The Pit",
+        "Shadows Over Bogenhafen",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The Pit)",
+      "region": "The Pit",
+      "category": [
+        "The Pit",
+        "Shadows Over Bogenhafen",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (The Pit)",
+      "region": "The Pit",
+      "category": [
+        "The Pit",
+        "Shadows Over Bogenhafen"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (The Blightreaper)",
+      "region": "The Blightreaper",
+      "category": [
+        "The Blightreaper",
+        "Shadows Overs Bogenhafen",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The Blightreaper)",
+      "region": "The Blightreaper",
+      "category": [
+        "The Blightreaper",
+        "Shadows Overs Bogenhafen",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The Blightreaper)",
+      "region": "The Blightreaper",
+      "category": [
+        "The Blightreaper",
+        "Shadows Overs Bogenhafen",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The Blightreaper)",
+      "region": "The Blightreaper",
+      "category": [
+        "The Blightreaper",
+        "Shadows Overs Bogenhafen",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The Blightreaper)",
+      "region": "The Blightreaper",
+      "category": [
+        "The Blightreaper",
+        "Shadows Overs Bogenhafen",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (The Blightreaper)",
+      "region": "The Blightreaper",
+      "category": [
+        "The Blightreaper",
+        "Shadows Overs Bogenhafen"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (The Horn of Magnus)",
+      "region": "The Horn of Magnus",
+      "category": [
+        "The Horn of Magnus",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (The Horn of Magnus)",
+      "region": "The Horn of Magnus",
+      "category": [
+        "The Horn of Magnus",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (The Horn of Magnus)",
+      "region": "The Horn of Magnus",
+      "category": [
+        "The Horn of Magnus",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (The Horn of Magnus)",
+      "region": "The Horn of Magnus",
+      "category": [
+        "The Horn of Magnus",
+        "Back to Ubersreik",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (The Horn of Magnus)",
+      "region": "The Horn of Magnus",
+      "category": [
+        "The Horn of Magnus",
+        "Back to Ubersreik",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (The Horn of Magnus)",
+      "region": "The Horn of Magnus",
+      "category": [
+        "The Horn of Magnus",
+        "Back to Ubersreik"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Garden of Morr)",
+      "region": "Garden of Morr",
+      "category": [
+        "Garden of Morr",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Garden of Morr)",
+      "region": "Garden of Morr",
+      "category": [
+        "Garden of Morr",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Garden of Morr)",
+      "region": "Garden of Morr",
+      "category": [
+        "Garden of Morr",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Garden of Morr)",
+      "region": "Garden of Morr",
+      "category": [
+        "Garden of Morr",
+        "Back to Ubersreik",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Garden of Morr)",
+      "region": "Garden of Morr",
+      "category": [
+        "Garden of Morr",
+        "Back to Ubersreik",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Garden of Morr)",
+      "region": "Garden of Morr",
+      "category": [
+        "Garden of Morr",
+        "Back to Ubersreik"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Engines of War)",
+      "region": "Engines of War",
+      "category": [
+        "Engines of War",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Engines of War)",
+      "region": "Engines of War",
+      "category": [
+        "Engines of War",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Engines of War)",
+      "region": "Engines of War",
+      "category": [
+        "Engines of War",
+        "Back to Ubersreik",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Engines of War)",
+      "region": "Engines of War",
+      "category": [
+        "Engines of War",
+        "Back to Ubersreik",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Engines of War)",
+      "region": "Engines of War",
+      "category": [
+        "Engines of War",
+        "Back to Ubersreik",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Engines of War)",
+      "region": "Engines of War",
+      "category": [
+        "Engines of War",
+        "Back to Ubersreik",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete Wave 1 (Fortunes of War)",
+      "region": "Fortunes of War",
+      "category": [
+        "Fortunes of War"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete Wave 2 (Fortunes of War)",
+      "region": "Fortunes of War",
+      "category": [
+        "Fortunes of War"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete Wave 3 (Fortunes of War)",
+      "region": "Fortunes of War",
+      "category": [
+        "Fortunes of War"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete Wave 4 (Fortunes of War)",
+      "region": "Fortunes of War",
+      "category": [
+        "Fortunes of War"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete Wave 5 (Fortunes of War)",
+      "region": "Fortunes of War",
+      "category": [
+        "Fortunes of War"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete Wave 6 (Fortunes of War)",
+      "region": "Fortunes of War",
+      "category": [
+        "Fortunes of War"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete Wave 7 (Fortunes of War)",
+      "region": "Fortunes of War",
+      "category": [
+        "Fortunes of War"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete Wave 8 (Fortunes of War)",
+      "region": "Fortunes of War",
+      "category": [
+        "Fortunes of War"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 1 (Dark Omens)",
+      "region": "Dark Omens",
+      "category": [
+        "Dark Omens",
+        "Winds of Magic",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 2 (Dark Omens)",
+      "region": "Dark Omens",
+      "category": [
+        "Dark Omens",
+        "Winds of Magic",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tome 3 (Dark Omens)",
+      "region": "Dark Omens",
+      "category": [
+        "Dark Omens",
+        "Winds of Magic",
+        "Tomes"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 1 (Dark Omens)",
+      "region": "Dark Omens",
+      "category": [
+        "Dark Omens",
+        "Winds of Magic",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Grimoire 2 (Dark Omens)",
+      "region": "Dark Omens",
+      "category": [
+        "Dark Omens",
+        "Winds of Magic",
+        "Grimoires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete the Mission (Dark Omens)",
+      "region": "Dark Omens",
+      "category": [
+        "Dark Omens",
+        "Winds of Magic"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete a Mission as Mercenary",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Mercenary| AND ({YamlDisabled(Add_Weapon)} OR ((|@KruberMWeapon:1| OR |@NoGrailWeapon:1| OR |@KruberSpear:1|) AND |@KruberRWeapon:1|))"
+    },
+    {
+      "name": "Complete a Mission as Huntsman",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Huntsman| AND ({YamlDisabled(Add_Weapon)} OR ((|@KruberMWeapon:1| OR |@NoGrailWeapon:1| OR |@KruberSpear:1|) AND (|@KruberRWeapon:1| OR |@HuntsmanWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Footknight",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Foot Knight| AND ({YamlDisabled(Add_Weapon)} OR ((|@KruberMWeapon:1| OR |@NoGrailWeapon:1|) AND |@KruberRWeapon:1|))"
+    },
+    {
+      "name": "Complete a Mission as Grail Knight",
+      "category": [
+        "Hero Checks",
+        "Careersanity",
+        "DLC Careers"
+      ],
+      "requires": "|Grail Knight| AND ({YamlDisabled(Add_Weapon)} OR ((|@KruberMWeapon:2| OR (|@KruberMWeapon:1| AND |@GrailKnightWeapon:1|))))"
+    },
+    {
+      "name": "Complete a Mission as Ranger Veteran",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Ranger Veteran| AND ({YamlDisabled(Add_Weapon)} OR ((|@BardinMWeapon:1| OR |@BardinShields:1|) AND (|@BardinRWeapon:1| OR |@BardinCrossbow:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Slayer",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Slayer| AND ({YamlDisabled(Add_Weapon)} OR ((|@BardinMWeapon:2| OR |@SlayerWeapon:2| OR (|@BardinMWeapon:1| AND |@SlayerWeapon:1|))))"
+    },
+    {
+      "name": "Complete a Mission as Ironbreaker",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Ironbreaker| AND ({YamlDisabled(Add_Weapon)} OR ((|@BardinMWeapon:1| OR |@BardinShields:1|) AND (|@BardinRWeapon:1| OR |@BardinTechWeapon:1| OR |@BardinCrossbow:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Outcast Engineer",
+      "category": [
+        "Hero Checks",
+        "Careersanity",
+        "DLC Careers"
+      ],
+      "requires": "|Outcast Engineer| AND ({YamlDisabled(Add_Weapon)} OR ((|@BardinMWeapon:1| OR |@BardinShields:1|) AND (|@BardinRWeapon:1| OR |@BardinTechWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Waystalker",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Waystalker| AND ({YamlDisabled(Add_Weapon)} OR (|@KerillianMWeapon:1| AND |@KerillianRWeapon:1|))"
+    },
+    {
+      "name": "Complete a Mission as Handmaiden",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Handmaiden| AND ({YamlDisabled(Add_Weapon)} OR ((|@KerillianMWeapon:1| OR |@HandmaidenWeapon:1|) AND |@KerillianRWeapon:1|))"
+    },
+    {
+      "name": "Complete a Mission as Shade",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Shade| AND ({YamlDisabled(Add_Weapon)} OR (|@KerillianMWeapon:1| AND (|@KerillianRWeapon:1| OR |@ShadeWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Sister of the Thorn",
+      "category": [
+        "Hero Checks",
+        "Careersanity",
+        "DLC Careers"
+      ],
+      "requires": "|Sister of the Thorn| AND ({YamlDisabled(Add_Weapon)} OR (|@KerillianMWeapon:1| AND (|@KerillianRWeapon:1| OR |@SOTTWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Witch Hunter Captain",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Witch Hunter Captain| AND ({YamlDisabled(Add_Weapon)} OR (|@ViktorMWeapon:1| AND |@ViktorRWeapon:1|))"
+    },
+    {
+      "name": "Complete a Mission as Bounty Hunter",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Bounty Hunter| AND ({YamlDisabled(Add_Weapon)} OR (|@ViktorMWeapon:1| AND |@ViktorRWeapon:1|))"
+    },
+    {
+      "name": "Complete a Mission as Zealot",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Zealot| AND ({YamlDisabled(Add_Weapon)} OR ((|@ViktorMWeapon:1| OR |@ZealotWeapon:1|) AND |@ViktorRWeapon:1|))"
+    },
+    {
+      "name": "Complete a Mission as Warrior Priest of Sigmar",
+      "category": [
+        "Hero Checks",
+        "Careersanity",
+        "DLC Careers"
+      ],
+      "requires": "|Warrior Priest of Sigmar| AND ({YamlDisabled(Add_Weapon)} OR (|@WarriorPriestWeapon:2|))"
+    },
+    {
+      "name": "Complete a Mission as Battle Wizard",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Battle Wizard| AND ({YamlDisabled(Add_Weapon)} OR (|@SiennaMWeapon:1| AND (|@SiennaRWeapon:1| OR |@SiennaFlameWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Pyromancer",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Pyromancer| AND ({YamlDisabled(Add_Weapon)} OR (|@SiennaMWeapon:1| AND (|@SiennaRWeapon:1| OR |@SiennaFlameWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Unchained",
+      "category": [
+        "Hero Checks",
+        "Careersanity"
+      ],
+      "requires": "|Unchained| AND ({YamlDisabled(Add_Weapon)} OR (|@SiennaMWeapon:1| AND (|@SiennaRWeapon:1| OR |@SiennaFlameWeapon:1|)))"
+    },
+    {
+      "name": "Complete a Mission as Necromancer",
+      "category": [
+        "Hero Checks",
+        "Careersanity",
+        "DLC Careers"
+      ],
+      "requires": "|Necromancer| AND ({YamlDisabled(Add_Weapon)} OR (|@SiennaMWeapon:1| AND (|@SiennaRWeapon:1| OR |@NecromancerWeapon:1|)))"
+    }
+  ]
+}
