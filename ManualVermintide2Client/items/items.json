@@ -1,0 +1,982 @@
+[
+    {
+        "name": "Righteous Stand",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/righteous_stand.png",
+        "codes": "righteous_stand"
+    },
+    {
+        "name": "Convocation of Decay",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/convocation_of_decay.png",
+        "codes": "convocation_of_decay"
+    },
+    {
+        "name": "Hunger in The Dark",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/hunger_in_the_dark.png",
+        "codes": "hunger_in_the_dark"
+    },
+    {
+        "name": "Halescourge",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/halescourge.png",
+        "codes": "halescourge"
+    },
+    {
+        "name": "Athel Yenlui",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/athel_yenlui.png",
+        "codes": "athel_yenlui"
+    },
+    {
+        "name": "The Screaming Bell",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_screaming_bell.png",
+        "codes": "the_screaming_bell"
+    },
+    {
+        "name": "Fort Brachsenbrucke",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/fort_brachsenbrucke.png",
+        "codes": "fort_brachsenbrucke"
+    },
+    {
+        "name": "Into The Nest",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/into_the_nest.png",
+        "codes": "into_the_nest"
+    },
+    {
+        "name": "Against The Grain",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/against_the_grain.png",
+        "codes": "against_the_grain"
+    },
+    {
+        "name": "Empire in Flames",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/empire_in_flames.png",
+        "codes": "empire_in_flames"
+    },
+    {
+        "name": "Festering Ground",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/festering_ground.png",
+        "codes": "festering_ground"
+    },
+    {
+        "name": "The War Camp",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_war_camp.png",
+        "codes": "the_war_camp"
+    },
+    {
+        "name": "The Skittergate",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_skittergate.png",
+        "codes": "the_skittergate"
+    },
+    {
+        "name": "Witch Hunter Captain",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/witch_hunter_captain.png",
+        "codes": "witch_hunter_captain"
+    },
+    {
+        "name": "Bounty Hunter",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/bounty_hunter.png",
+        "codes": "bounty_hunter"
+    },
+    {
+        "name": "Zealot",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/zealot.png",
+        "codes": "zealot"
+    },
+    {
+        "name": "Warrior Priest of Sigmar",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/warrior_priest_of_sigmar.png",
+        "codes": "warrior_priest_of_sigmar"
+    },
+    {
+        "name": "Ranger Veteran",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/ranger_veteran.png",
+        "codes": "ranger_veteran"
+    },
+    {
+        "name": "Ironbreaker",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/ironbreaker.png",
+        "codes": "ironbreaker"
+    },
+    {
+        "name": "Slayer",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/slayer.png",
+        "codes": "slayer"
+    },
+    {
+        "name": "Outcast Engineer",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/outcast_engineer.png",
+        "codes": "outcast_engineer"
+    },
+    {
+        "name": "Waystalker",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/waystalker.png",
+        "codes": "waystalker"
+    },
+    {
+        "name": "Handmaiden",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/handmaiden.png",
+        "codes": "handmaiden"
+    },
+    {
+        "name": "Shade",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/shade.png",
+        "codes": "shade"
+    },
+    {
+        "name": "Sister of the Thorn",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/sister_of_the_thorn.png",
+        "codes": "sister_of_the_thorn"
+    },
+    {
+        "name": "Battle Wizard",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/battle_wizard.png",
+        "codes": "battle_wizard"
+    },
+    {
+        "name": "Pyromancer",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/pyromancer.png",
+        "codes": "pyromancer"
+    },
+    {
+        "name": "Unchained",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/unchained.png",
+        "codes": "unchained"
+    },
+    {
+        "name": "Necromancer",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/necromancer.png",
+        "codes": "necromancer"
+    },
+    {
+        "name": "Mercenary",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/mercenary.png",
+        "codes": "mercenary"
+    },
+    {
+        "name": "Huntsman",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/huntsman.png",
+        "codes": "huntsman"
+    },
+    {
+        "name": "Foot Knight",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/foot_knight.png",
+        "codes": "foot_knight"
+    },
+    {
+        "name": "Grail Knight",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/grail_knight.png",
+        "codes": "grail_knight"
+    },
+    {
+        "name": "Rapier",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/rapier.png",
+        "codes": "rapier"
+    },
+    {
+        "name": "Falchion",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/falchion.png",
+        "codes": "falchion"
+    },
+    {
+        "name": "Axe (Viktor Saltzpye)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/axe_(viktor_saltzpye).png",
+        "codes": "axe_(viktor_saltzpye)"
+    },
+    {
+        "name": "Greatsword (Viktor Saltzpyre)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/greatsword_(viktor_saltzpyre).png",
+        "codes": "greatsword_(viktor_saltzpyre)"
+    },
+    {
+        "name": "Flail",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/flail.png",
+        "codes": "flail"
+    },
+    {
+        "name": "Axe and Falchion",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/axe_and_falchion.png",
+        "codes": "axe_and_falchion"
+    },
+    {
+        "name": "Billhook",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/billhook.png",
+        "codes": "billhook"
+    },
+    {
+        "name": "Flail and Shield",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/flail_and_shield.png",
+        "codes": "flail_and_shield"
+    },
+    {
+        "name": "Reckoner Great Hammer",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/reckoner_great_hammer.png",
+        "codes": "reckoner_great_hammer"
+    },
+    {
+        "name": "Paired Skull-Splitters",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/paired_skull-splitters.png",
+        "codes": "paired_skull-splitters"
+    },
+    {
+        "name": "Skull-Splitter and Tome",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/skull-splitter_and_tome.png",
+        "codes": "skull-splitter_and_tome"
+    },
+    {
+        "name": "Skull-Splitter and Shield",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/skull-splitter_and_shield.png",
+        "codes": "skull-splitter_and_shield"
+    },
+    {
+        "name": "Skull-Splitter Hammer",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/skull-splitter_hammer.png",
+        "codes": "skull-splitter_hammer"
+    },
+    {
+        "name": "Brace of Pistols",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/brace_of_pistols.png",
+        "codes": "brace_of_pistols"
+    },
+    {
+        "name": "Volley Crossbow (Viktor Saltzpyre)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/volley_crossbow_(viktor_saltzpyre).png",
+        "codes": "volley_crossbow_(viktor_saltzpyre)"
+    },
+    {
+        "name": "Repeater Pistol",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/repeater_pistol.png",
+        "codes": "repeater_pistol"
+    },
+    {
+        "name": "Crossbow (Viktor Saltspyre)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/crossbow_(viktor_saltspyre).png",
+        "codes": "crossbow_(viktor_saltspyre)"
+    },
+    {
+        "name": "Griffonfoot Pistols",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/griffonfoot_pistols.png",
+        "codes": "griffonfoot_pistols"
+    },
+    {
+        "name": "Great Hammer (Bardin Goreksson)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/great_hammer_(bardin_goreksson).png",
+        "codes": "great_hammer_(bardin_goreksson)"
+    },
+    {
+        "name": "Great Axe",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/great_axe.png",
+        "codes": "great_axe"
+    },
+    {
+        "name": "Axe (Bardin Goreksson)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/axe_(bardin_goreksson).png",
+        "codes": "axe_(bardin_goreksson)"
+    },
+    {
+        "name": "Hammer",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/hammer.png",
+        "codes": "hammer"
+    },
+    {
+        "name": "War Pick",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/war_pick.png",
+        "codes": "war_pick"
+    },
+    {
+        "name": "Axe and Shield",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/axe_and_shield.png",
+        "codes": "axe_and_shield"
+    },
+    {
+        "name": "Hammer and Shield",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/hammer_and_shield.png",
+        "codes": "hammer_and_shield"
+    },
+    {
+        "name": "Dual Axes",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/dual_axes.png",
+        "codes": "dual_axes"
+    },
+    {
+        "name": "Dual Hammers",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/dual_hammers.png",
+        "codes": "dual_hammers"
+    },
+    {
+        "name": "Cog Hammer",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/cog_hammer.png",
+        "codes": "cog_hammer"
+    },
+    {
+        "name": "Throwing Axes",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/throwing_axes.png",
+        "codes": "throwing_axes"
+    },
+    {
+        "name": "Crossbow (Bardin Goreksson)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/crossbow_(bardin_goreksson).png",
+        "codes": "crossbow_(bardin_goreksson)"
+    },
+    {
+        "name": "Handgun (Bardin Goreksson)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/handgun_(bardin_goreksson).png",
+        "codes": "handgun_(bardin_goreksson)"
+    },
+    {
+        "name": "Drakefire Pistols",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/drakefire_pistols.png",
+        "codes": "drakefire_pistols"
+    },
+    {
+        "name": "Drakegun",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/drakegun.png",
+        "codes": "drakegun"
+    },
+    {
+        "name": "Grudge-Raker",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/grudge-raker.png",
+        "codes": "grudge-raker"
+    },
+    {
+        "name": "Masterwork Pistol",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/masterwork_pistol.png",
+        "codes": "masterwork_pistol"
+    },
+    {
+        "name": "Trollhammer Torpedo",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/trollhammer_torpedo.png",
+        "codes": "trollhammer_torpedo"
+    },
+    {
+        "name": "Sword (Kerillian)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/sword_(kerillian).png",
+        "codes": "sword_(kerillian)"
+    },
+    {
+        "name": "Dual Daggers",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/dual_daggers.png",
+        "codes": "dual_daggers"
+    },
+    {
+        "name": "Dual Swords",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/dual_swords.png",
+        "codes": "dual_swords"
+    },
+    {
+        "name": "Sword and Dagger",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/sword_and_dagger.png",
+        "codes": "sword_and_dagger"
+    },
+    {
+        "name": "Glaive",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/glaive.png",
+        "codes": "glaive"
+    },
+    {
+        "name": "Greatsword (Kerillian)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/greatsword_(kerillian).png",
+        "codes": "greatsword_(kerillian)"
+    },
+    {
+        "name": "Elven Spear",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/elven_spear.png",
+        "codes": "elven_spear"
+    },
+    {
+        "name": "Elven Axe",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/elven_axe.png",
+        "codes": "elven_axe"
+    },
+    {
+        "name": "Spear and Shield (Kerillian)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/spear_and_shield_(kerillian).png",
+        "codes": "spear_and_shield_(kerillian)"
+    },
+    {
+        "name": "Swiftbow",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/swiftbow.png",
+        "codes": "swiftbow"
+    },
+    {
+        "name": "Longbow (Kerillian)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/longbow_(kerillian).png",
+        "codes": "longbow_(kerillian)"
+    },
+    {
+        "name": "Hagbane Shortbow",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/hagbane_shortbow.png",
+        "codes": "hagbane_shortbow"
+    },
+    {
+        "name": "Volley Crossbow (Kerillian)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/volley_crossbow_(kerillian).png",
+        "codes": "volley_crossbow_(kerillian)"
+    },
+    {
+        "name": "Moonfire Bow",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/moonfire_bow.png",
+        "codes": "moonfire_bow"
+    },
+    {
+        "name": "Briar Javelin",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/briar_javelin.png",
+        "codes": "briar_javelin"
+    },
+    {
+        "name": "Deepwood Staff",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/deepwood_staff.png",
+        "codes": "deepwood_staff"
+    },
+    {
+        "name": "Sword (Sienna Fuegonasus)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/sword_(sienna_fuegonasus).png",
+        "codes": "sword_(sienna_fuegonasus)"
+    },
+    {
+        "name": "Mace (Sienna Fuegonasus)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/mace_(sienna_fuegonasus).png",
+        "codes": "mace_(sienna_fuegonasus)"
+    },
+    {
+        "name": "Fire Sword",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/fire_sword.png",
+        "codes": "fire_sword"
+    },
+    {
+        "name": "Dagger",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/dagger.png",
+        "codes": "dagger"
+    },
+    {
+        "name": "Crowbill",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/crowbill.png",
+        "codes": "crowbill"
+    },
+    {
+        "name": "Flaming Flail",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/flaming_flail.png",
+        "codes": "flaming_flail"
+    },
+    {
+        "name": "Ensorcelled Reaper",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/ensorcelled_reaper.png",
+        "codes": "ensorcelled_reaper"
+    },
+    {
+        "name": "Fireball Staff",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/fireball_staff.png",
+        "codes": "fireball_staff"
+    },
+    {
+        "name": "Flamestorm Staff",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/flamestorm_staff.png",
+        "codes": "flamestorm_staff"
+    },
+    {
+        "name": "Bolt Staff",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/bolt_staff.png",
+        "codes": "bolt_staff"
+    },
+    {
+        "name": "Beam Staff",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/beam_staff.png",
+        "codes": "beam_staff"
+    },
+    {
+        "name": "Conflagration Staff",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/conflagration_staff.png",
+        "codes": "conflagration_staff"
+    },
+    {
+        "name": "Coruscation Staff",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/coruscation_staff.png",
+        "codes": "coruscation_staff"
+    },
+    {
+        "name": "Soulstealer Staff",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/soulstealer_staff.png",
+        "codes": "soulstealer_staff"
+    },
+    {
+        "name": "Greatsword (Markus Kruber)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/greatsword_(markus_kruber).png",
+        "codes": "greatsword_(markus_kruber)"
+    },
+    {
+        "name": "Halberd",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/halberd.png",
+        "codes": "halberd"
+    },
+    {
+        "name": "Sword (Markus Kruber)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/sword_(markus_kruber).png",
+        "codes": "sword_(markus_kruber)"
+    },
+    {
+        "name": "Executioner Sword",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/executioner_sword.png",
+        "codes": "executioner_sword"
+    },
+    {
+        "name": "Great Hammer (Markus Kruber)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/great_hammer_(markus_kruber).png",
+        "codes": "great_hammer_(markus_kruber)"
+    },
+    {
+        "name": "Sword and Shield",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/sword_and_shield.png",
+        "codes": "sword_and_shield"
+    },
+    {
+        "name": "Mace (Markus Kruber)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/mace_(markus_kruber).png",
+        "codes": "mace_(markus_kruber)"
+    },
+    {
+        "name": "Mace and Shield",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/mace_and_shield.png",
+        "codes": "mace_and_shield"
+    },
+    {
+        "name": "Mace and Sword",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/mace_and_sword.png",
+        "codes": "mace_and_sword"
+    },
+    {
+        "name": "Tuskgor Spear",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tuskgor_spear.png",
+        "codes": "tuskgor_spear"
+    },
+    {
+        "name": "Bretonnian Longsword",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/bretonnian_longsword.png",
+        "codes": "bretonnian_longsword"
+    },
+    {
+        "name": "Bretonian Sword and Shield",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/bretonian_sword_and_shield.png",
+        "codes": "bretonian_sword_and_shield"
+    },
+    {
+        "name": "Spear and Shield (Markus Kruber)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/spear_and_shield_(markus_kruber).png",
+        "codes": "spear_and_shield_(markus_kruber)"
+    },
+    {
+        "name": "Blunderbus",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/blunderbus.png",
+        "codes": "blunderbus"
+    },
+    {
+        "name": "Handgun (Markus Kruber)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/handgun_(markus_kruber).png",
+        "codes": "handgun_(markus_kruber)"
+    },
+    {
+        "name": "Longbow (Markus Kruber)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/longbow_(markus_kruber).png",
+        "codes": "longbow_(markus_kruber)"
+    },
+    {
+        "name": "Repeater Handgun",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/repeater_handgun.png",
+        "codes": "repeater_handgun"
+    },
+    {
+        "name": "Expedition of Fortitude",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/expedition_of_fortitude.png",
+        "codes": "expedition_of_fortitude"
+    },
+    {
+        "name": "Expedition of Courage",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/expedition_of_courage.png",
+        "codes": "expedition_of_courage"
+    },
+    {
+        "name": "Expedition of Determination",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/expedition_of_determination.png",
+        "codes": "expedition_of_determination"
+    },
+    {
+        "name": "Expedition to the Citadel of Eternity",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/expedition_to_the_citadel_of_eternity.png",
+        "codes": "expedition_to_the_citadel_of_eternity"
+    },
+    {
+        "name": "Old Haunts",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/old_haunts.png",
+        "codes": "old_haunts"
+    },
+    {
+        "name": "Blood in the Darkness",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/blood_in_the_darkness.png",
+        "codes": "blood_in_the_darkness"
+    },
+    {
+        "name": "The Enchanter's Lair",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_enchanters_lair.png",
+        "codes": "the_enchanters_lair"
+    },
+    {
+        "name": "Trail of Treachery",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/trail_of_treachery.png",
+        "codes": "trail_of_treachery"
+    },
+    {
+        "name": "Tower of Treachery",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tower_of_treachery.png",
+        "codes": "tower_of_treachery"
+    },
+    {
+        "name": "Mission of Mercy",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/mission_of_mercy.png",
+        "codes": "mission_of_mercy"
+    },
+    {
+        "name": "A Grudge Served Cold",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/a_grudge_served_cold.png",
+        "codes": "a_grudge_served_cold"
+    },
+    {
+        "name": "Khazukan Kazakit-Ha!",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/khazukan_kazakit-ha!.png",
+        "codes": "khazukan_kazakit-ha!"
+    },
+    {
+        "name": "A Parting of the Waves",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/a_parting_of_the_waves.png",
+        "codes": "a_parting_of_the_waves"
+    },
+    {
+        "name": "The Forsaken Temple",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_forsaken_temple.png",
+        "codes": "the_forsaken_temple"
+    },
+    {
+        "name": "Devious Delvings",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/devious_delvings.png",
+        "codes": "devious_delvings"
+    },
+    {
+        "name": "The Well of Dreams",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_well_of_dreams.png",
+        "codes": "the_well_of_dreams"
+    },
+    {
+        "name": "Return to the Reik",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/return_to_the_reik.png",
+        "codes": "return_to_the_reik"
+    },
+    {
+        "name": "The Pit",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_pit.png",
+        "codes": "the_pit"
+    },
+    {
+        "name": "The Blightreaper",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_blightreaper.png",
+        "codes": "the_blightreaper"
+    },
+    {
+        "name": "The Horn of Magnus",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_horn_of_magnus.png",
+        "codes": "the_horn_of_magnus"
+    },
+    {
+        "name": "Garden of Morr",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/garden_of_morr.png",
+        "codes": "garden_of_morr"
+    },
+    {
+        "name": "Engines of War",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/engines_of_war.png",
+        "codes": "engines_of_war"
+    },
+    {
+        "name": "Fortunes of War",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/fortunes_of_war.png",
+        "codes": "fortunes_of_warmap"
+    },
+    {
+        "name": "Dark Omens",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/dark_omens.png",
+        "codes": "dark_omens"
+    }
+]

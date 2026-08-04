@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Devious Delvings",
+        "children": [
+            {
+                "name": "Devious Delvings",
+                "access_rules": ["devious_delvings"],
+                "visibility_rules": ["Verminous_Dreams"],
+                "sections": [
+                    {
+                        "name": "Tome 1 (Devious Delvings)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Devious Delvings)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Devious Delvings)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Devious Delvings)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Devious Delvings)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Complete the Mission (Devious Delvings)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 703,
+                        "y": 740
+                    }
+                ]
+            }
+        ]
+    }
+]

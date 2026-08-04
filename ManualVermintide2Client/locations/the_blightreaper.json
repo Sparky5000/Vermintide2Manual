@@ -1,0 +1,60 @@
+[
+    {
+        "name": "The Blightreaper",
+        "children": [
+            {
+                "name": "The Blightreaper",
+                "access_rules": ["the_blightreaper"],
+                "visibility_rules": ["Shadows_Over_Bogenhafen"],
+                "sections": [
+                    {
+                        "name": "Tome 1 (The Blightreaper)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (The Blightreaper)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (The Blightreaper)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (The Blightreaper)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (The Blightreaper)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Complete the Mission (The Blightreaper)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 704,
+                        "y": 1114
+                    }
+                ]
+            }
+        ]
+    }
+]

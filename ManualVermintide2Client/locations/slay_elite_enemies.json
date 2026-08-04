@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Slay Elite Enemies",
+        "children": [
+            {
+                "name": "__start__",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Defeat a Scaven Patrol",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Chaos Warrior",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Defeat a pack of Plague Monks",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Chaos Warrior with Shield",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Bestigor",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|4"
+                        ],
+                        "visibility_rules": [
+                            "Winds_of_Magic"
+                        ]
+                    },
+                    {
+                        "name": "Slay a total of 25 Elites",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|5"
+                        ]
+                    },
+                    {
+                        "name": "Slay a total of 50 Elites",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|8"
+                        ]
+                    },
+                    {
+                        "name": "Slay a total of 100 Elites",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|10"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 350,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Bestigor",
+                "sections": [
+                    {
+                        "ref": "Slay Elite Enemies/__start__/Slay a Bestigor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 142,
+                        "y": 260
+                    }
+                ]
+            },
+            {
+                "name": "Chaos Warrior",
+                "sections": [
+                    {
+                        "ref": "Slay Elite Enemies/__start__/Slay a Chaos Warrior"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 240,
+                        "y": 260
+                    }
+                ]
+            },
+            {
+                "name": "Plague Monk",
+                "sections": [
+                    {
+                        "ref": "Slay Elite Enemies/__start__/Defeat a pack of Plague Monks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 336,
+                        "y": 260
+                    }
+                ]
+            },
+            {
+                "name": "Stormvermin",
+                "sections": [
+                    {
+                        "ref": "Slay Elite Enemies/__start__/Defeat a Scaven Patrol"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 429,
+                        "y": 260
+                    }
+                ]
+            },
+            {
+                "name": "Chaos Warrior with Shield",
+                "sections": [
+                    {
+                        "ref": "Slay Elite Enemies/__start__/Slay a Chaos Warrior with Shield"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 526,
+                        "y": 260
+                    }
+                ]
+            },
+            {
+                "name": "Elites",
+                "sections": [
+                    {
+                        "ref": "Slay Elite Enemies/__start__/Slay a total of 25 Elites"
+                    },
+                    {
+                        "ref": "Slay Elite Enemies/__start__/Slay a total of 50 Elites"
+                    },
+                    {
+                        "ref": "Slay Elite Enemies/__start__/Slay a total of 100 Elites"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 750,
+                        "y": 197,
+                        "size": 64
+                    }
+                ]
+            }
+        ]
+    }
+]

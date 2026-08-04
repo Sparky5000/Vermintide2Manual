@@ -1,0 +1,217 @@
+[
+    {
+        "name": "Slay Special Enemies",
+        "children": [
+            {
+                "name": "__start__",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Slay a Poison Wind Globadier",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Ratling Gunner",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Gutter Runner",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Blightstormer",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Lifeleech",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Packmaster",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Warpfire Thrower",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a total of 10 Specials",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|3"
+                        ]
+                    },
+                    {
+                        "name": "Slay a total of 20 Specials",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|6"
+                        ]
+                    },
+                    {
+                        "name": "Slay a total of 50 Specials",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|9"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 375,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Globadier",
+                "sections": [
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a Poison Wind Globadier"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 47,
+                        "y": 117
+                    }
+                ]
+            },
+            {
+                "name": "Ratling Gunner",
+                "sections": [
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a Ratling Gunner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 143,
+                        "y": 117
+                    }
+                ]
+            },
+            {
+                "name": "Gutter Runner",
+                "sections": [
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a Gutter Runner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 238,
+                        "y": 117
+                    }
+                ]
+            },
+            {
+                "name": "Blightstormer",
+                "sections": [
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a Blightstormer"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 337,
+                        "y": 117
+                    }
+                ]
+            },
+            {
+                "name": "Lifeleech",
+                "sections": [
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a Lifeleech"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 431,
+                        "y": 117
+                    }
+                ]
+            },
+            {
+                "name": "Packmaster",
+                "sections": [
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a Packmaster"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 527,
+                        "y": 117
+                    }
+                ]
+            },
+            {
+                "name": "Warpfire Thrower",
+                "sections": [
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a Warpfire Thrower"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 625,
+                        "y": 117
+                    }
+                ]
+            },
+            {
+                "name": "Specials",
+                "sections": [
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a total of 10 Specials"
+                    },
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a total of 20 Specials"
+                    },
+                    {
+                        "ref": "Slay Special Enemies/__start__/Slay a total of 50 Specials"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 750,
+                        "y": 53,
+                        "size": 64
+                    }
+                ]
+            }
+        ]
+    }
+]

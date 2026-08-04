@@ -1,0 +1,46 @@
+{
+    "settings_popup": {
+        "type": "array",
+        "orientation": "horizontal",
+        "v_alignment": "top",
+        "min_width": 190,
+        "min_height": 440,
+        "content": {
+            "type": "itemgrid",
+            "item_width": 40,
+            "item_height": 40,
+            "v_alignment": "center",
+            "h_alignment": "center",
+            "dropshadow": false,
+            "margin": 10,
+            "rows": [
+                [
+
+                    "Add_Grimoires",
+                    "Add_Tomes"
+                ],
+                [
+                    "Back_to_Ubersreik",
+                    "Chaos_Wastes"
+                ],
+                [
+                    "Fortunes_of_War",
+                    "Karak_Azgaraz",
+                    "Shadows_Over_Bogenhafen"
+                ],
+                [
+                    "The_Curse_of_Drachenfels",
+                    "Winds_of_Magic"
+                ],
+                [
+                    "Verminous_Dreams",
+                    "Reikland_Tales",
+                    "A_Treacherous_Adventure"
+                ],
+                [
+                    "Careersanity","DLC_Careers"
+                ]
+            ]
+        }
+    }
+}

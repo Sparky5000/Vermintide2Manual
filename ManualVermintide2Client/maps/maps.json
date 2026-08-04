@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Helmgart",
+        "img": "images/maps/Helmgart.png",
+        "location_size": 45,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "DLC",
+        "img": "images/maps/DLCQuests.png",
+        "location_size": 35,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "ChaosWastes",
+        "img": "images/maps/ChaosWastes.png",
+        "location_size": 96,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "Heroes",
+        "img": "images/maps/Heroes.png",
+        "location_size": 64,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "Enemies",
+        "img": "images/maps/Enemies.png",
+        "location_size": 32,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "TaalsKeep",
+        "img": "images/maps/TaalsKeep.png",
+        "location_size": 64,
+        "location_border_thickness": 1
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "name": "The Well of Dreams",
+        "children": [
+            {
+                "name": "The Well of Dreams",
+                "access_rules": ["the_well_of_dreams"],
+                "visibility_rules": ["Verminous_Dreams"],
+                "sections": [
+                    {
+                        "name": "Tome 1 (The Well of Dreams)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (The Well of Dreams)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (The Well of Dreams)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (The Well of Dreams)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (The Well of Dreams)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Complete the Mission (The Well of Dreams)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 894,
+                        "y": 740
+                    }
+                ]
+            }
+        ]
+    }
+]

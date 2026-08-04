@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Slay Monster",
+        "children": [
+            {
+                "name": "__start__",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Slay a Rat Ogre",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|5",
+                            "the_screaming_bell"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Stormfiend",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|5"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Bile Troll",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|5",
+                            "hunger_in_the_dark"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Chaos Spawn",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|5"
+                        ]
+                    },
+                    {
+                        "name": "Slay a Minotaur",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|6"
+                        ],
+                        "visibility_rules": [
+                            "Winds_of_Magic"
+                        ]
+                    },
+                    {
+                        "name": "Slay 10 Monsters",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$has_count_from_group|Mission|10"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 325,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Rat Ogre",
+                "sections": [
+                    {
+                        "ref": "Slay Monster/__start__/Slay a Rat Ogre"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 142,
+                        "y": 401
+                    }
+                ]
+            },
+            {
+                "name": "Stormfiend",
+                "sections": [
+                    {
+                        "ref": "Slay Monster/__start__/Slay a Stormfiend"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 237,
+                        "y": 401
+                    }
+                ]
+            },
+            {
+                "name": "Bile Troll",
+                "sections": [
+                    {
+                        "ref": "Slay Monster/__start__/Slay a Bile Troll"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 333,
+                        "y": 401
+                    }
+                ]
+            },
+            {
+                "name": "Chaos Spawn",
+                "sections": [
+                    {
+                        "ref": "Slay Monster/__start__/Slay a Chaos Spawn"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 431,
+                        "y": 401
+                    }
+                ]
+            },
+            {
+                "name": "Minotaur",
+                "sections": [
+                    {
+                        "ref": "Slay Monster/__start__/Slay a Minotaur"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 527,
+                        "y": 401
+                    }
+                ]
+            },
+            {
+                "name": "Monsters",
+                "sections": [
+                    {
+                        "ref": "Slay Monster/__start__/Slay 10 Monsters"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Enemies",
+                        "x": 750,
+                        "y": 341,
+                        "size": 64
+                    }
+                ]
+            }
+        ]
+    }
+]

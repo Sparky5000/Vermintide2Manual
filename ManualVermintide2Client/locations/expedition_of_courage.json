@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Expedition of Courage",
+        "children": [
+            {
+                "name": "Courage",
+                "access_rules": ["expedition_of_courage"],
+                "sections": [
+                    {
+                        "name": "Stage 1 Clear (Expedition of Courage)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 2 Clear (Expedition of Courage)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 3 Clear (Expedition of Courage)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 4 Clear (Expedition of Courage)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 5 Clear (Expedition of Courage)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 6 Clear (Expedition of Courage)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 7 Arena of Courage Complete",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stage 1",
+                "sections": [
+                    {
+                        "ref": "Expedition of Courage/Courage/Stage 1 Clear (Expedition of Courage)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 319,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Stage 2",
+                "sections": [
+                    {
+                        "ref": "Expedition of Courage/Courage/Stage 2 Clear (Expedition of Courage)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 533,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Stage 3",
+                "sections": [
+                    {
+                        "ref": "Expedition of Courage/Courage/Stage 3 Clear (Expedition of Courage)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 748,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Stage 4",
+                "sections": [
+                    {
+                        "ref": "Expedition of Courage/Courage/Stage 4 Clear (Expedition of Courage)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 970,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Stage 5",
+                "sections": [
+                    {
+                        "ref": "Expedition of Courage/Courage/Stage 5 Clear (Expedition of Courage)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1188,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Stage 6",
+                "sections": [
+                    {
+                        "ref": "Expedition of Courage/Courage/Stage 6 Clear (Expedition of Courage)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1411,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Stage 7",
+                "sections": [
+                    {
+                        "ref": "Expedition of Courage/Courage/Stage 7 Arena of Courage Complete"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1644,
+                        "y": 361
+                    }
+                ]
+            }
+        ]
+    }
+]

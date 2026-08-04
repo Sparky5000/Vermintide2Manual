@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Righteous Stand",
+        "children": [
+            {
+                "name": "Righteous Stand",
+                "access_rules": ["righteous_stand"],
+                "sections": [
+                    {
+                        "name": "Complete The Mission (Righteous Stand)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (Righteous Stand)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Righteous Stand)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Righteous Stand)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Righteous Stand)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Righteous Stand)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 218,
+                        "y": 263
+                    }
+                ]
+            }
+        ]
+    }
+]

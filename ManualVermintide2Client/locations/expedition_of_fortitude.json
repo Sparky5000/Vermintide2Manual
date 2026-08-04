@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Expedition of Fortitude",
+        "children": [
+            {
+                "name": "Fortitude",
+                "access_rules": ["expedition_of_fortitude"],
+                "sections": [
+                    {
+                        "name": "Stage 1 Clear (Expedition of Fortitude)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 2 Clear (Expedition of Fortitude)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 3 Clear (Expedition of Fortitude)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 4 Clear (Expedition of Fortitude)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 5 Clear (Expedition of Fortitude)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 6 Clear (Expedition of Fortitude)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 7 Arena of Fortitude Complete",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stage 1",
+                "sections": [
+                    {
+                        "ref": "Expedition of Fortitude/Fortitude/Stage 1 Clear (Expedition of Fortitude)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 323,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Stage 2",
+                "sections": [
+                    {
+                        "ref": "Expedition of Fortitude/Fortitude/Stage 2 Clear (Expedition of Fortitude)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 538,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Stage 3",
+                "sections": [
+                    {
+                        "ref": "Expedition of Fortitude/Fortitude/Stage 3 Clear (Expedition of Fortitude)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 752,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Stage 4",
+                "sections": [
+                    {
+                        "ref": "Expedition of Fortitude/Fortitude/Stage 4 Clear (Expedition of Fortitude)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 976,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Stage 5",
+                "sections": [
+                    {
+                        "ref": "Expedition of Fortitude/Fortitude/Stage 5 Clear (Expedition of Fortitude)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1194,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Stage 6",
+                "sections": [
+                    {
+                        "ref": "Expedition of Fortitude/Fortitude/Stage 6 Clear (Expedition of Fortitude)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1417,
+                        "y": 128
+                    }
+                ]
+            },
+            {
+                "name": "Stage 7",
+                "sections": [
+                    {
+                        "ref": "Expedition of Fortitude/Fortitude/Stage 7 Arena of Fortitude Complete"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1650,
+                        "y": 128
+                    }
+                ]
+            }
+        ]
+    }
+]

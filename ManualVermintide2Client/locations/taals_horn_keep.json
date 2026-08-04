@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Taal's Horn Keep",
+        "children": [
+            {
+                "name": "__start__",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Enter Catrinne's Secret Tower",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete the Jumping Puzzle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 425,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Catrinnes Tower",
+                "sections": [
+                    {
+                        "ref": "Taal's Horn Keep/__start__/Enter Catrinne's Secret Tower"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "TaalsKeep",
+                        "x": 203,
+                        "y": 153,
+                        "size": 64
+                    }
+                ]
+            },
+            {
+                "name": "Parkour",
+                "sections": [
+                    {
+                        "ref": "Taal's Horn Keep/__start__/Complete the Jumping Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "TaalsKeep",
+                        "x": 621,
+                        "y": 350,
+                        "size": 64
+                    }
+                ]
+            }
+        ]
+    }
+]

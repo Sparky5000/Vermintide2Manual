@@ -1,0 +1,423 @@
+[
+    {
+        "name": "Hero Checks",
+        "children": [
+            {
+                "name": "__start__",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Complete a Mission as Viktor Saltzpyre",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, $has_count_from_group|Victor Saltzpyre Careers|1",
+                            "$has_count_from_group|Victor Saltzpyre Careers|1, $has_count_from_group|WarriorPriestWeapon|2, warrior_priest_of_sigmar",
+                            "$has_count_from_group|Victor Saltzpyre Careers|1, $has_count_from_group|ViktorMWeapon|1, $has_count_from_group|ViktorRWeapon|1, witch_hunter_captain",
+                            "$has_count_from_group|Victor Saltzpyre Careers|1, $has_count_from_group|ViktorMWeapon|1, $has_count_from_group|ViktorRWeapon|1, bounty_hunter",
+                            "$has_count_from_group|Victor Saltzpyre Careers|1, $has_count_from_group|ViktorMWeapon|1, $has_count_from_group|ViktorRWeapon|1, zealot",
+                            "$has_count_from_group|Victor Saltzpyre Careers|1, $has_count_from_group|ViktorRWeapon|1, $has_count_from_group|ZealotWeapon|1, zealot"
+                        ]
+                    },
+                    {
+                        "name": "Complete a Mission as Bardin Goreksson",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, $has_count_from_group|Bardin Goreksson Careers|1",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinMWeapon|2, slayer",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|SlayerWeapon|2, slayer",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinRWeapon|1, ranger_veteran",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinRWeapon|1, $has_count_from_group|BardinShields|1, ranger_veteran",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinCrossbow|1, $has_count_from_group|BardinMWeapon|1, ranger_veteran",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinCrossbow|1, $has_count_from_group|BardinShields|1, ranger_veteran",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinRWeapon|1, ironbreaker",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinRWeapon|1, $has_count_from_group|BardinShields|1, ironbreaker",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinTechWeapon|1, ironbreaker",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinShields|1, $has_count_from_group|BardinTechWeapon|1, ironbreaker",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinCrossbow|1, $has_count_from_group|BardinMWeapon|1, ironbreaker",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinCrossbow|1, $has_count_from_group|BardinShields|1, ironbreaker",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinMWeapon|1, $has_count_from_group|SlayerWeapon|1, slayer",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinRWeapon|1, outcast_engineer",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinRWeapon|1, $has_count_from_group|BardinShields|1, outcast_engineer",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinTechWeapon|1, outcast_engineer",
+                            "$has_count_from_group|Bardin Goreksson Careers|1, $has_count_from_group|BardinShields|1, $has_count_from_group|BardinTechWeapon|1, outcast_engineer"
+                        ]
+                    },
+                    {
+                        "name": "Complete a Mission as Kerillian",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, $has_count_from_group|Kerillian Careers|1",
+                            "$has_count_from_group|Kerillian Careers|1, $has_count_from_group|KerillianMWeapon|1, $has_count_from_group|KerillianRWeapon|1, waystalker",
+                            "$has_count_from_group|Kerillian Careers|1, $has_count_from_group|KerillianMWeapon|1, $has_count_from_group|KerillianRWeapon|1, handmaiden",
+                            "$has_count_from_group|HandmaidenWeapon|1, $has_count_from_group|Kerillian Careers|1, $has_count_from_group|KerillianRWeapon|1, handmaiden",
+                            "$has_count_from_group|Kerillian Careers|1, $has_count_from_group|KerillianMWeapon|1, $has_count_from_group|KerillianRWeapon|1, shade",
+                            "$has_count_from_group|Kerillian Careers|1, $has_count_from_group|KerillianMWeapon|1, $has_count_from_group|ShadeWeapon|1, shade",
+                            "$has_count_from_group|Kerillian Careers|1, $has_count_from_group|KerillianMWeapon|1, $has_count_from_group|KerillianRWeapon|1, sister_of_the_thorn",
+                            "$has_count_from_group|Kerillian Careers|1, $has_count_from_group|KerillianMWeapon|1, $has_count_from_group|SOTTWeapon|1, sister_of_the_thorn"
+                        ]
+                    },
+                    {
+                        "name": "Complete a Mission as Sienna Fuegonasus",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, $has_count_from_group|Sienna Fuegonasus Careers|1",
+                            "$has_count_from_group|Sienna Fuegonasus Careers|1, $has_count_from_group|SiennaMWeapon|1, $has_count_from_group|SiennaRWeapon|1, battle_wizard",
+                            "$has_count_from_group|Sienna Fuegonasus Careers|1, $has_count_from_group|SiennaMWeapon|1, $has_count_from_group|SiennaRWeapon|1, pyromancer",
+                            "$has_count_from_group|Sienna Fuegonasus Careers|1, $has_count_from_group|SiennaMWeapon|1, $has_count_from_group|SiennaRWeapon|1, unchained",
+                            "$has_count_from_group|Sienna Fuegonasus Careers|1, $has_count_from_group|SiennaFlameWeapon|1, $has_count_from_group|SiennaMWeapon|1, battle_wizard",
+                            "$has_count_from_group|Sienna Fuegonasus Careers|1, $has_count_from_group|SiennaFlameWeapon|1, $has_count_from_group|SiennaMWeapon|1, pyromancer",
+                            "$has_count_from_group|Sienna Fuegonasus Careers|1, $has_count_from_group|SiennaFlameWeapon|1, $has_count_from_group|SiennaMWeapon|1, unchained",
+                            "$has_count_from_group|Sienna Fuegonasus Careers|1, $has_count_from_group|SiennaMWeapon|1, $has_count_from_group|SiennaRWeapon|1, necromancer",
+                            "$has_count_from_group|NecromancerWeapon|1, $has_count_from_group|Sienna Fuegonasus Careers|1, $has_count_from_group|SiennaMWeapon|1, necromancer"
+                        ]
+                    },
+                    {
+                        "name": "Complete a Mission as Markus Kruber",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, $has_count_from_group|Markus Kruber Careers|1",
+                            "$has_count_from_group|KruberMWeapon|2, $has_count_from_group|Markus Kruber Careers|1, grail_knight",
+                            "$has_count_from_group|KruberMWeapon|1, $has_count_from_group|KruberRWeapon|1, $has_count_from_group|Markus Kruber Careers|1, mercenary",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|Markus Kruber Careers|1, $has_count_from_group|NoGrailWeapon|1, mercenary",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|KruberSpear|1, $has_count_from_group|Markus Kruber Careers|1, mercenary",
+                            "$has_count_from_group|KruberMWeapon|1, $has_count_from_group|KruberRWeapon|1, $has_count_from_group|Markus Kruber Careers|1, huntsman",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|Markus Kruber Careers|1, $has_count_from_group|NoGrailWeapon|1, huntsman",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|KruberSpear|1, $has_count_from_group|Markus Kruber Careers|1, huntsman",
+                            "$has_count_from_group|HuntsmanWeapon|1, $has_count_from_group|KruberMWeapon|1, $has_count_from_group|Markus Kruber Careers|1, huntsman",
+                            "$has_count_from_group|HuntsmanWeapon|1, $has_count_from_group|Markus Kruber Careers|1, $has_count_from_group|NoGrailWeapon|1, huntsman",
+                            "$has_count_from_group|HuntsmanWeapon|1, $has_count_from_group|KruberSpear|1, $has_count_from_group|Markus Kruber Careers|1, huntsman",
+                            "$has_count_from_group|KruberMWeapon|1, $has_count_from_group|KruberRWeapon|1, $has_count_from_group|Markus Kruber Careers|1, foot_knight",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|Markus Kruber Careers|1, $has_count_from_group|NoGrailWeapon|1, foot_knight",
+                            "$has_count_from_group|GrailKnightWeapon|1, $has_count_from_group|KruberMWeapon|1, $has_count_from_group|Markus Kruber Careers|1, grail_knight"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Viktor Saltzpyre",
+                "sections": [
+                    {
+                        "ref": "Hero Checks/__start__/Complete a Mission as Viktor Saltzpyre"
+                    },
+                    {
+                        "name": "Complete a Mission as Witch Hunter Captain",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, witch_hunter_captain",
+                            "$has_count_from_group|ViktorMWeapon|1, $has_count_from_group|ViktorRWeapon|1, witch_hunter_captain"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Bounty Hunter",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, bounty_hunter",
+                            "$has_count_from_group|ViktorMWeapon|1, $has_count_from_group|ViktorRWeapon|1, bounty_hunter"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Zealot",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, zealot",
+                            "$has_count_from_group|ViktorMWeapon|1, $has_count_from_group|ViktorRWeapon|1, zealot",
+                            "$has_count_from_group|ViktorRWeapon|1, $has_count_from_group|ZealotWeapon|1, zealot"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Warrior Priest of Sigmar",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, warrior_priest_of_sigmar",
+                            "$has_count_from_group|WarriorPriestWeapon|2, warrior_priest_of_sigmar"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity, DLC_Careers"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Heroes",
+                        "x": 182,
+                        "y": 100
+                    }
+                ]
+            },
+            {
+                "name": "Kerillian",
+                "sections": [
+                    {
+                        "ref": "Hero Checks/__start__/Complete a Mission as Kerillian"
+                    },
+                    {
+                        "name": "Complete a Mission as Waystalker",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, waystalker",
+                            "$has_count_from_group|KerillianMWeapon|1, $has_count_from_group|KerillianRWeapon|1, waystalker"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as handmaiden",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, handmaiden",
+                            "$has_count_from_group|KerillianMWeapon|1, $has_count_from_group|KerillianRWeapon|1, handmaiden",
+                            "$has_count_from_group|HandmaidenWeapon|1, $has_count_from_group|KerillianRWeapon|1, handmaiden"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Shade",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, shade",
+                            "$has_count_from_group|KerillianMWeapon|1, $has_count_from_group|KerillianRWeapon|1, shade",
+                            "$has_count_from_group|KerillianMWeapon|1, $has_count_from_group|ShadeWeapon|1, shade"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Sister of The Thorn",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, sister_of_the_thorn",
+                            "$has_count_from_group|KerillianMWeapon|1, $has_count_from_group|KerillianRWeapon|1, sister_of_the_thorn",
+                            "$has_count_from_group|KerillianMWeapon|1, $has_count_from_group|SOTTWeapon|1, sister_of_the_thorn"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity, DLC_Careers"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Heroes",
+                        "x": 550,
+                        "y": 100
+                    }
+                ]
+            },
+            {
+                "name": "Markus Kruber",
+                "sections": [
+                    {
+                        "ref": "Hero Checks/__start__/Complete a Mission as Markus Kruber"
+                    },
+                    {
+                        "name": "Complete a Mission as Mercenary",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, mercenary",
+                            "$has_count_from_group|KruberMWeapon|1, $has_count_from_group|KruberRWeapon|1, mercenary",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|NoGrailWeapon|1, mercenary",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|KruberSpear|1, mercenary"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Huntsman",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, huntsman",
+                            "$has_count_from_group|KruberMWeapon|1, $has_count_from_group|KruberRWeapon|1, huntsman",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|NoGrailWeapon|1, huntsman",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|KruberSpear|1, huntsman",
+                            "$has_count_from_group|HuntsmanWeapon|1, $has_count_from_group|KruberMWeapon|1, huntsman",
+                            "$has_count_from_group|HuntsmanWeapon|1, $has_count_from_group|NoGrailWeapon|1, huntsman",
+                            "$has_count_from_group|HuntsmanWeapon|1, $has_count_from_group|KruberSpear|1, huntsman"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Foot Knight",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, foot_knight",
+                            "$has_count_from_group|KruberMWeapon|1, $has_count_from_group|KruberRWeapon|1, foot_knight",
+                            "$has_count_from_group|KruberRWeapon|1, $has_count_from_group|NoGrailWeapon|1, foot_knight"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Grail Knight",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, foot_knight",
+                            "$has_count_from_group|GrailKnightWeapon|1, $has_count_from_group|KruberMWeapon|1, grail_knight",
+                            "$has_count_from_group|KruberMWeapon|2, grail_knight"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity, DLC_Careers"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Heroes",
+                        "x": 913,
+                        "y": 100
+                    }
+                ]
+            },
+            {
+                "name": "Bardin Goreksson",
+                "sections": [
+                    {
+                        "ref": "Hero Checks/__start__/Complete a Mission as Bardin Goreksson"
+                    },
+                    {
+                        "name": "Complete a Mission as Ranger Veteran",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, ranger_veteran",
+                            "$has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinRWeapon|1, ranger_veteran",
+                            "$has_count_from_group|BardinRWeapon|1, $has_count_from_group|BardinShields|1, ranger_veteran",
+                            "$has_count_from_group|BardinCrossbow|1, $has_count_from_group|BardinMWeapon|1, ranger_veteran",
+                            "$has_count_from_group|BardinCrossbow|1, $has_count_from_group|BardinShields|1, ranger_veteran"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Slayer",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, slayer",
+                            "$has_count_from_group|BardinMWeapon|2, slayer",
+                            "$has_count_from_group|SlayerWeapon|2, slayer",
+                            "$has_count_from_group|BardinMWeapon|1, $has_count_from_group|SlayerWeapon|1, slayer"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Ironbreaker",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, ironbreaker",
+                            "$has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinRWeapon|1, ironbreaker",
+                            "$has_count_from_group|BardinRWeapon|1, $has_count_from_group|BardinShields|1, ironbreaker",
+                            "$has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinTechWeapon|1, ironbreaker",
+                            "$has_count_from_group|BardinShields|1, $has_count_from_group|BardinTechWeapon|1, ironbreaker",
+                            "$has_count_from_group|BardinCrossbow|1, $has_count_from_group|BardinMWeapon|1, ironbreaker",
+                            "$has_count_from_group|BardinCrossbow|1, $has_count_from_group|BardinShields|1, ironbreaker"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Outcast Engineer",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, outcast_engineer",
+                            "$has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinRWeapon|1, outcast_engineer",
+                            "$has_count_from_group|BardinRWeapon|1, $has_count_from_group|BardinShields|1, outcast_engineer",
+                            "$has_count_from_group|BardinMWeapon|1, $has_count_from_group|BardinTechWeapon|1, outcast_engineer",
+                            "$has_count_from_group|BardinShields|1, $has_count_from_group|BardinTechWeapon|1, outcast_engineer"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity, DLC_Careers"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Heroes",
+                        "x": 1280,
+                        "y": 100
+                    }
+                ]
+            },
+            {
+                "name": "Sienna Fuegonasus",
+                "sections": [
+                    {
+                        "ref": "Hero Checks/__start__/Complete a Mission as Sienna Fuegonasus"
+                    },
+                    {
+                        "name": "Complete a Mission as Battle Wizard",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, battle_wizard",
+                            "$has_count_from_group|SiennaMWeapon|1, $has_count_from_group|SiennaRWeapon|1, battle_wizard",
+                            "$has_count_from_group|SiennaFlameWeapon|1, $has_count_from_group|SiennaMWeapon|1, battle_wizard"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Pyromancer",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, pyromancer",
+                            "$has_count_from_group|SiennaMWeapon|1, $has_count_from_group|SiennaRWeapon|1, pyromancer",
+                            "$has_count_from_group|SiennaFlameWeapon|1, $has_count_from_group|SiennaMWeapon|1, pyromancer"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Unchained",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, unchained",
+                            "$has_count_from_group|SiennaMWeapon|1, $has_count_from_group|SiennaRWeapon|1, unchained",
+                            "$has_count_from_group|SiennaFlameWeapon|1, $has_count_from_group|SiennaMWeapon|1, unchained"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete a Mission as Necromancer",
+                        "access_rules": [
+                            "$YamlDisabled|Add_Weapon, necromancer",
+                            "$has_count_from_group|SiennaMWeapon|1, $has_count_from_group|SiennaRWeapon|1, necromancer",
+                            "$has_count_from_group|NecromancerWeapon|1, $has_count_from_group|SiennaMWeapon|1, necromancer"
+                        ],
+                        "visibility_rules": [
+                            "Careersanity, DLC_Careers"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Heroes",
+                        "x": 1648,
+                        "y": 100
+                    }
+                ]
+            }
+        ]
+    }
+]

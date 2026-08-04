@@ -1,0 +1,317 @@
+{
+    "tracker_tabs": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Locations",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "Locations"
+                    }
+                ]
+            },
+            {
+                "title": "Items",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "array",
+                                "orientation": "vertical",
+                                "margin": "0,0",
+                                "content": [
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "1,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "110,130",
+                                        "rows": [
+                                            [
+                                                "witch_hunter_captain",
+                                                "bounty_hunter",
+                                                "zealot",
+                                                "warrior_priest_of_sigmar"
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "1,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "60,60",
+                                        "rows": [
+                                            [
+                                                "axe_(viktor_saltzpye)",
+                                                "axe_and_falchion",
+                                                "billhook",
+                                                "falchion",
+                                                "flail",
+                                                "greatsword_(viktor_saltzpyre)",
+                                                "rapier",
+                                                "flail_and_shield",
+                                                "paired_skull-splitters",
+                                                "reckoner_great_hammer",
+                                                "skull-splitter_and_tome",
+                                                "skull-splitter_and_shield",
+                                                "skull-splitter_hammer"
+                                            ],
+                                            [
+                                                "brace_of_pistols",
+                                                "crossbow_(viktor_saltspyre)",
+                                                "griffonfoot_pistols",
+                                                "repeater_pistol",
+                                                "volley_crossbow_(viktor_saltzpyre)"
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "1,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "110,130",
+                                        "rows": [
+                                            [
+                                                "waystalker",
+                                                "handmaiden",
+                                                "shade",
+                                                "sister_of_the_thorn"
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "1,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "60,60",
+                                        "rows": [
+                                            [
+                                                "dual_daggers",
+                                                "dual_swords",
+                                                "elven_axe",
+                                                "elven_spear",
+                                                "glaive",
+                                                "greatsword_(kerillian)",
+                                                "spear_and_shield_(kerillian)",
+                                                "sword_(kerillian)",
+                                                "sword_and_dagger"
+                                            ],
+                                            [
+                                                "briar_javelin",
+                                                "deepwood_staff",
+                                                "hagbane_shortbow",
+                                                "longbow_(kerillian)",
+                                                "moonfire_bow",
+                                                "swiftbow",
+                                                "volley_crossbow_(kerillian)"
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "1,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "110,130",
+                                        "rows": [
+                                            [
+                                                "mercenary",
+                                                "huntsman",
+                                                "foot_knight",
+                                                "grail_knight"
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "1,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "60,60",
+                                        "rows": [
+                                            [
+                                                "bretonnian_longsword",
+                                                "bretonian_sword_and_shield",
+                                                "executioner_sword",
+                                                "great_hammer_(markus_kruber)",
+                                                "greatsword_(markus_kruber)",
+                                                "halberd",
+                                                "mace_(markus_kruber)",
+                                                "mace_and_shield",
+                                                "mace_and_sword",
+                                                "spear_and_shield_(markus_kruber)",
+                                                "sword_(markus_kruber)",
+                                                "sword_and_shield",
+                                                "tuskgor_spear"
+                                            ],
+                                            [
+                                                "longbow_(markus_kruber)",
+                                                "blunderbus",
+                                                "handgun_(markus_kruber)",
+                                                "repeater_handgun"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "array",
+                                "orientation": "vertical",
+                                "margin": "0,0",
+                                "content": [
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "8,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "110,130",
+                                        "rows": [
+                                            [
+                                                "ranger_veteran",
+                                                "slayer",
+                                                "ironbreaker",
+                                                "outcast_engineer"
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "1,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "60,60",
+                                        "rows": [
+                                            [
+                                                "axe_(bardin_goreksson)",
+                                                "axe_and_shield",
+                                                "cog_hammer",
+                                                "dual_axes",
+                                                "dual_hammers",
+                                                "great_axe",
+                                                "great_hammer_(bardin_goreksson)",
+                                                "hammer",
+                                                "hammer_and_shield",
+                                                "war_pick"
+                                            ],
+                                            [
+                                                "crossbow_(bardin_goreksson)",
+                                                "drakefire_pistols",
+                                                "drakegun",
+                                                "grudge-raker",
+                                                "handgun_(bardin_goreksson)",
+                                                "masterwork_pistol",
+                                                "throwing_axes",
+                                                "trollhammer_torpedo"
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "8,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "110,130",
+                                        "rows": [
+                                            [
+                                                "battle_wizard",
+                                                "pyromancer",
+                                                "unchained",
+                                                "necromancer"
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "type": "itemgrid",
+                                        "margin": "1,0,0,0",
+                                        "item_margin": "0, 0",
+                                        "h_alignment": "left",
+                                        "item_size": "60,60",
+                                        "rows": [
+                                            [
+                                                "crowbill",
+                                                "dagger",
+                                                "ensorcelled_reaper",
+                                                "fire_sword",
+                                                "flaming_flail",
+                                                "mace_(sienna_fuegonasus)",
+                                                "sword_(sienna_fuegonasus)"
+                                            ],
+                                            [
+                                                "beam_staff",
+                                                "bolt_staff",
+                                                "conflagration_staff",
+                                                "coruscation_staff",
+                                                "fireball_staff",
+                                                "flamestorm_staff",
+                                                "soulstealer_staff"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Locations": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Helmgart",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Helmgart",
+                        "TaalsKeep"
+                    ]
+                }
+            },
+            {
+                "title": "DLCs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DLC"
+                    ]
+                }
+            },
+            {
+                "title": "Chaos Wastes",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ChaosWastes"
+                    ]
+                }
+            },
+            {
+                "title": "Hero Checks",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Heroes"
+                    ]
+                }
+            },
+            {
+                "title": "Enemy Checks",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Enemies"
+                    ]
+                }
+            }
+        ]
+    }
+}
+    

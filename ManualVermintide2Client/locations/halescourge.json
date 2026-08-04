@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Halescourge",
+        "children": [
+            {
+                "name": "Halescourge",
+                "access_rules": ["halescourge"],
+                "sections": [
+                    {
+                        "name": "Complete The Mission (Halescourge)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (Halescourge)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Halescourge)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Halescourge)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Halescourge)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Halescourge)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Slay Burblespue Halescourge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 789,
+                        "y": 265
+                    }
+                ]
+            }
+        ]
+    }
+]

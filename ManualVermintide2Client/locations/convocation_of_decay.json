@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Convocation of Decay",
+        "children": [
+            {
+                "name": "Convocation of Decay",
+                "access_rules": ["convocation_of_decay"],
+                "sections": [
+                    {
+                        "name": "Complete The Mission (Convocation of Decay)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (Convocation of Decay)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Convocation of Decay)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Convocation of Decay)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Convocation of Decay)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Convocation of Decay)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 411,
+                        "y": 264
+                    }
+                ]
+            }
+        ]
+    }
+]

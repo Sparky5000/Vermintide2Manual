@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Kazukan Kazakit-Ha!",
+        "children": [
+            {
+                "name": "Khazukan Kazakit-Ha!",
+                "access_rules": ["khazukan_kazakit-ha!"],
+                "sections": [
+                    {
+                        "name": "Tome 1 (Kazukan Kazakit-Ha!)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Kazukan Kazakit-Ha!)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Kazukan Kazakit-Ha!)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Kazukan Kazakit-Ha!)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Kazukan Kazakit-Ha!)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Complete the Mission (Kazukan Kazakit-Ha!)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 894,
+                        "y": 553
+                    }
+                ]
+            }
+        ]
+    }
+]

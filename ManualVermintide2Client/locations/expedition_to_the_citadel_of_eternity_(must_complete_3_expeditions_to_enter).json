@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)",
+        "children": [
+            {
+                "name": "CitadelofEternity",
+                "access_rules": ["$has_count_from_group|Chaos Wastes|4"],
+                "sections": [
+                    {
+                        "name": "Stage 1 Clear (Citadel of Eternity)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 2 Clear (Citadel of Eternity)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 3 Clear (Citadel of Eternity)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 4 Clear (Citadel of Eternity)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 5 Clear (Citadel of Eternity)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 6 Clear (Citadel of Eternity)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Stage 7 Clear (Citadel of Eternity)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    },
+                    {
+                        "name": "Complete The Citadel of Eternity",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Chaos_Wastes"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stage 1",
+                "sections": [
+                    {
+                        "ref": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)/CitadelofEternity/Stage 1 Clear (Citadel of Eternity)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 323,
+                        "y": 794
+                    }
+                ]
+            },
+            {
+                "name": "Stage 2",
+                "sections": [
+                    {
+                        "ref": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)/CitadelofEternity/Stage 2 Clear (Citadel of Eternity)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 538,
+                        "y": 794
+                    }
+                ]
+            },
+            {
+                "name": "Stage 3",
+                "sections": [
+                    {
+                        "ref": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)/CitadelofEternity/Stage 3 Clear (Citadel of Eternity)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 752,
+                        "y": 794
+                    }
+                ]
+            },
+            {
+                "name": "Stage 4",
+                "sections": [
+                    {
+                        "ref": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)/CitadelofEternity/Stage 4 Clear (Citadel of Eternity)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 976,
+                        "y": 794
+                    }
+                ]
+            },
+            {
+                "name": "Stage 5",
+                "sections": [
+                    {
+                        "ref": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)/CitadelofEternity/Stage 5 Clear (Citadel of Eternity)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1194,
+                        "y": 794
+                    }
+                ]
+            },
+            {
+                "name": "Stage 6",
+                "sections": [
+                    {
+                        "ref": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)/CitadelofEternity/Stage 6 Clear (Citadel of Eternity)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1417,
+                        "y": 794
+                    }
+                ]
+            },
+            {
+                "name": "Stage 7",
+                "sections": [
+                    {
+                        "ref": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)/CitadelofEternity/Stage 7 Clear (Citadel of Eternity)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1650,
+                        "y": 794
+                    }
+                ]
+            },
+            {
+                "name": "Reach the Citadel",
+                "sections": [
+                    {
+                        "ref": "Expedition to the Citadel of Eternity (Must Complete 3 Expeditions to Enter)/CitadelofEternity/Complete The Citadel of Eternity"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChaosWastes",
+                        "x": 1885,
+                        "y": 859,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

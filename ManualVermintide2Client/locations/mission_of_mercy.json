@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Mission of Mercy",
+        "children": [
+            {
+                "name": "Mission of Mercy",
+                "access_rules": ["mission_of_mercy"],
+                "sections": [
+                    {
+                        "name": "Tome 1 (Mission of Mercy)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Mission of Mercy)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Mission of Mercy)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Mission of Mercy)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Mission of Mercy)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Complete the Mission (Mission of Mercy)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Karak_Azgaraz"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 512,
+                        "y": 553
+                    }
+                ]
+            }
+        ]
+    }
+]

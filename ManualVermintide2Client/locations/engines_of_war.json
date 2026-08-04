@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Engines of War",
+        "children": [
+            {
+                "name": "Engines of War",
+                "access_rules": ["engines_of_war"],
+                "sections": [
+                    {
+                        "name": "Tome 1 (Engines of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Back_to_Ubersreik, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Engines of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Back_to_Ubersreik, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Engines of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Back_to_Ubersreik, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Engines of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Back_to_Ubersreik, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Engines of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Back_to_Ubersreik, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Complete the Mission (Engines of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Back_to_Ubersreik, Add_Grimoires"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 894,
+                        "y": 1298
+                    }
+                ]
+            }
+        ]
+    }
+]

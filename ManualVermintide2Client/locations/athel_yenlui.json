@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Athel Yenlui",
+        "children": [
+            {
+                "name": "Athel Yenlui",
+                "access_rules": ["athel_yenlui"],
+                "sections": [
+                    {
+                        "name": "Complete The Mission (Athel Yenlui)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (Athel Yenlui)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Athel Yenlui)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Athel Yenlui)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Athel Yenlui)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Athel Yenlui)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 227,
+                        "y": 453
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Hunger in The Dark",
+        "children": [
+            {
+                "name": "Hunger in The Dark",
+                "access_rules": ["hunger_in_the_dark"],
+                "sections": [
+                    {
+                        "name": "Complete The Mission (Hunger in The Dark)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (Hunger in The Dark)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Hunger in The Dark)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Hunger in The Dark)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Hunger in The Dark)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Hunger in The Dark)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 599,
+                        "y": 261
+                    }
+                ]
+            }
+        ]
+    }
+]

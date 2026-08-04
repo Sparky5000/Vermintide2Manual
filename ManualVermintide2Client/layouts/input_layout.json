@@ -1,0 +1,285 @@
+{
+    "helmgart": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "righteous_stand",
+                "convocation_of_decay",
+                "hunger_in_the_dark",
+                "halescourge",
+                "athel_yenlui",
+                "the_screaming_bell",
+                "fort_brachsenbrucke",
+                "into_the_nest",
+                "against_the_grain",
+                "empire_in_flames"
+            ],
+            [
+                "festering_ground",
+                "the_war_camp",
+                "the_skittergate",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "mission": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "expedition_of_fortitude",
+                "expedition_of_courage",
+                "expedition_of_determination",
+                "expedition_to_the_citadel_of_eternity",
+                "old_haunts",
+                "blood_in_the_darkness",
+                "the_enchanters_lair",
+                "trail_of_treachery",
+                "tower_of_treachery",
+                "mission_of_mercy"
+            ],
+            [
+                "a_grudge_served_cold",
+                "khazukan_kazakit-ha!",
+                "a_parting_of_the_waves",
+                "the_forsaken_temple",
+                "devious_delvings",
+                "the_well_of_dreams",
+                "return_to_the_reik",
+                "the_pit",
+                "the_blightreaper",
+                "the_horn_of_magnus"
+            ],
+            [
+                "garden_of_morr",
+                "engines_of_war",
+                "fortunes_of_war",
+                "dark_omens",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "victor_saltzpyre_careers": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "witch_hunter_captain",
+                "bounty_hunter",
+                "zealot",
+                "warrior_priest_of_sigmar",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "hero": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "ranger_veteran",
+                "ironbreaker",
+                "slayer",
+                "outcast_engineer",
+                "waystalker",
+                "handmaiden",
+                "shade",
+                "sister_of_the_thorn",
+                "battle_wizard",
+                "pyromancer"
+            ],
+            [
+                "unchained",
+                "necromancer",
+                "mercenary",
+                "huntsman",
+                "foot_knight",
+                "grail_knight",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "dlc_careers": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "flail_and_shield",
+                "reckoner_great_hammer",
+                "paired_skull-splitters",
+                "skull-splitter_and_tome",
+                "skull-splitter_and_shield",
+                "skull-splitter_hammer",
+                "cog_hammer",
+                "masterwork_pistol",
+                "briar_javelin",
+                "deepwood_staff"
+            ],
+            [
+                "ensorcelled_reaper",
+                "soulstealer_staff",
+                "bretonnian_longsword",
+                "bretonian_sword_and_shield",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "weapon": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "rapier",
+                "falchion",
+                "axe_(viktor_saltzpye)",
+                "greatsword_(viktor_saltzpyre)",
+                "flail",
+                "axe_and_falchion",
+                "billhook",
+                "brace_of_pistols",
+                "volley_crossbow_(viktor_saltzpyre)",
+                "repeater_pistol"
+            ],
+            [
+                "crossbow_(viktor_saltspyre)",
+                "griffonfoot_pistols",
+                "great_hammer_(bardin_goreksson)",
+                "great_axe",
+                "axe_(bardin_goreksson)",
+                "hammer",
+                "war_pick",
+                "axe_and_shield",
+                "hammer_and_shield",
+                "duel_axes"
+            ],
+            [
+                "duel_hammers",
+                "throwing_axes",
+                "crossbow_(bardin_goreksson)",
+                "handgun_(bardin_goreksson)",
+                "drakefire_pistols",
+                "drakegun",
+                "grudge-raker",
+                "trollhammer_torpedo",
+                "sword_(kerillian)",
+                "dual_daggers"
+            ],
+            [
+                "dual_swords",
+                "sword_and_dagger",
+                "glaive",
+                "greatsword_(kerillian)",
+                "elven_spear",
+                "elven_axe",
+                "spear_and_shield_(kerillian)",
+                "swiftbow",
+                "longbow_(kerillian)",
+                "hagbane_shortbow"
+            ],
+            [
+                "volley_crossbow_(kerillian)",
+                "moonfire_bow",
+                "sword_(sienna_fuegonasus)",
+                "mace_(sienna_fuegonasus)",
+                "fire_sword",
+                "dagger",
+                "crowbill",
+                "flaming_flail",
+                "fireball_staff",
+                "flamestorm_staff"
+            ],
+            [
+                "bolt_staff",
+                "beam_staff",
+                "conflagration_staff",
+                "coruscation_staff",
+                "greatsword_(markus_kruber)",
+                "halberd",
+                "sword_(markus_kruber)",
+                "executioner_sword",
+                "great_hammer_(markus_kruber)",
+                "sword_and_shield"
+            ],
+            [
+                "mace_(markus_kruber)",
+                "mace_and_shield",
+                "mace_and_sword",
+                "tuskgor_spear",
+                "spear_and_shield_(markus_kruber)",
+                "blunderbus",
+                "handgun_(markus_kruber)",
+                "longbow_(markus_kruber)",
+                "repeater_handgun",
+                ""
+            ]
+        ]
+    },
+    "tracker_items": {
+        "type": "array",
+        "orientation": "vertical",
+        "style": "wrap",
+        "content": [
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "victor_saltzpyre_careers"
+            },
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "hero"
+            },
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "dlc_careers"
+            },
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "weapon"
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "The Pit",
+        "children": [
+            {
+                "name": "The Pit",
+                "access_rules": ["the_pit"],
+                "sections": [
+                    {
+                        "name": "Tome 1 (The Pit)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Shadows_Over_Bogenhafen, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (The Pit)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Shadows_Over_Bogenhafen, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (The Pit)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Shadows_Over_Bogenhafen, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (The Pit)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Shadows_Over_Bogenhafen, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (The Pit)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Shadows_Over_Bogenhafen, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Complete the Mission (The Pit)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Shadows_Over_Bogenhafen"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 514,
+                        "y": 1114
+                    }
+                ]
+            }
+        ]
+    }
+]

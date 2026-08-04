@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Fortunes of War",
+        "children": [
+            {
+                "name": "Fortunes of War",
+                "access_rules": ["fortunes_of_warmap"],
+                "sections": [
+                    {
+                        "name": "Complete Wave 1 (Fortunes of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Fortunes_of_War"
+                        ]
+                    },
+                    {
+                        "name": "Complete Wave 2 (Fortunes of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Fortunes_of_War"
+                        ]
+                    },
+                    {
+                        "name": "Complete Wave 3 (Fortunes of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Fortunes_of_War"
+                        ]
+                    },
+                    {
+                        "name": "Complete Wave 4 (Fortunes of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Fortunes_of_War"
+                        ]
+                    },
+                    {
+                        "name": "Complete Wave 5 (Fortunes of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Fortunes_of_War"
+                        ]
+                    },
+                    {
+                        "name": "Complete Wave 6 (Fortunes of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Fortunes_of_War"
+                        ]
+                    },
+                    {
+                        "name": "Complete Wave 7 (Fortunes of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Fortunes_of_War"
+                        ]
+                    },
+                    {
+                        "name": "Complete Wave 8 (Fortunes of War)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Fortunes_of_War"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 1494,
+                        "y": 1426
+                    }
+                ]
+            }
+        ]
+    }
+]

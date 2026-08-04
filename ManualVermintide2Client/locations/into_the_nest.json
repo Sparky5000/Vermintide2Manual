@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Into The Nest",
+        "children": [
+            {
+                "name": "Into The Nest",
+                "access_rules": ["into_the_nest"],
+                "sections": [
+                    {
+                        "name": "Complete The Mission (Into The Nest)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (Into The Nest)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 2 (Into The Nest)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Into The Nest)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Into The Nest)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Into The Nest)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Slay Skarrik Spinemanglr",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 797,
+                        "y": 453
+                    }
+                ]
+            }
+        ]
+    }
+]

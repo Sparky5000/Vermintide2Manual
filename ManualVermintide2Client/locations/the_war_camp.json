@@ -1,0 +1,63 @@
+[
+    {
+        "name": "The War Camp",
+        "children": [
+            {
+                "name": "The War Camp",
+                "access_rules": ["the_war_camp"],
+                "sections": [
+                    {
+                        "name": "Complete The Mission (The War Camp)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (The War Camp)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (The War Camp)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (The War Camp)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (The War Camp)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (The War Camp)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Slay Bodvarr Ribspreader",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 805,
+                        "y": 645
+                    }
+                ]
+            }
+        ]
+    }
+]

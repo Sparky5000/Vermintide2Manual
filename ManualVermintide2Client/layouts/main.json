@@ -1,0 +1,22 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "content": {
+      "type": "dock",
+      "content": [
+        {
+          "type": "array",
+          "v_alignment": "stretch",
+          "margin": "0, 0",
+          "content": [
+            {
+              "type": "layout",
+              "dock": "top",
+              "key": "tracker_tabs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

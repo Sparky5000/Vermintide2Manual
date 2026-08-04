@@ -1,0 +1,15 @@
+{
+    "name": "WarhammerVermintide2 for Archipelago (Manual)",
+    "game_name": "Manual_WarhammerVermintide2_Sparky5000",
+    "package_version": "1.0.0",
+    "package_uid": "Manual_WarhammerVermintide2_Sparky5000",
+    "variants": {
+        "tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap",
+                "apmanual"
+            ]
+        }
+    }
+}

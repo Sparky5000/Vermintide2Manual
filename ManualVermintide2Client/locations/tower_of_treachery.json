@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Tower of Treachery",
+        "children": [
+            {
+                "name": "Tower of Treachery",
+                "access_rules": ["tower_of_treachery"],
+                "sections": [
+                    {
+                        "name": "Tome 1 (Tower of Treachery)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "A_Treacherous_Adventure, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Tower of Treachery)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "A_Treacherous_Adventure, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Tower of Treachery)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "A_Treacherous_Adventure, Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Tower of Treachery)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "A_Treacherous_Adventure, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Tower of Treachery)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "A_Treacherous_Adventure, Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Slay Sofia Fuegonasus",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "A_Treacherous_Adventure"
+                        ]
+                    },
+                    {
+                        "name": "Complete the Mission (Tower of Treachery)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "A_Treacherous_Adventure"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DLC",
+                        "x": 704,
+                        "y": 365
+                    }
+                ]
+            }
+        ]
+    }
+]

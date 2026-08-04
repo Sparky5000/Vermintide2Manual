@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Empire in Flames",
+        "children": [
+            {
+                "name": "Empire in Flames",
+                "access_rules": ["empire_in_flames"],
+                "sections": [
+                    {
+                        "name": "Complete The Level (Empire in Flames)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (Empire in Flames)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (Empire in Flames)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (Empire in Flames)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (Empire in Flames)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (Empire in Flames)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 426,
+                        "y": 641
+                    }
+                ]
+            }
+        ]
+    }
+]

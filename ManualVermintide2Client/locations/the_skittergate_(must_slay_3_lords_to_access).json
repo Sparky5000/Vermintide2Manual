@@ -1,0 +1,67 @@
+[
+    {
+        "name": "The Skittergate (Must slay 3 lords to access)",
+        "children": [
+            {
+                "name": "The Skittergate",
+                "access_rules": ["the_skittergate, $has_count_from_group|LordMission|3"],
+                "sections": [
+                    {
+                        "name": "Complete The Mission (The Skittergate)",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tome 1 (The Skittergate)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 2 (The Skittergate)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Tome 3 (The Skittergate)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Tomes"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 1 (The Skittergate)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Grimoire 2 (The Skittergate)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "Add_Grimoires"
+                        ]
+                    },
+                    {
+                        "name": "Slay Rasknitt and Deathrattler",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Slay Gatekeeper Naglfahr",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Helmgart",
+                        "x": 236,
+                        "y": 835
+                    }
+                ]
+            }
+        ]
+    }
+]

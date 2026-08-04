@@ -1,0 +1,128 @@
+[
+    {
+        "name": "A_Treacherous_Adventure",
+        "type": "toggle",
+        "img": "images/options/A_Treacherous_Adventure.png",
+        "loop": true,
+        "codes": "A_Treacherous_Adventure"
+    },
+    {
+        "name": "Add_Grimoires",
+        "type": "toggle",
+        "img": "images/options/Add_Grimoires.png",
+        "loop": true,
+        "codes": "Add_Grimoires"
+    },
+    {
+        "name": "Add_Tomes",
+        "type": "toggle",
+        "img": "images/options/Add_Tomes.png",
+        "loop": true,
+        "codes": "Add_Tomes"
+    },
+    {
+        "name": "Add_Weapon",
+        "type": "toggle",
+        "img": "images/options/Add_Weapon.png",
+        "loop": true,
+        "codes": "Add_Weapon"
+    },
+    {
+        "name": "Back_To_Ubersreik_Weapons",
+        "type": "toggle",
+        "img": "images/options/Back_To_Ubersreik_Weapons.png",
+        "loop": true,
+        "codes": "Back_To_Ubersreik_Weapons"
+    },
+    {
+        "name": "Back_to_Ubersreik",
+        "type": "toggle",
+        "img": "images/options/Back_to_Ubersreik.png",
+        "loop": true,
+        "codes": "Back_to_Ubersreik"
+    },
+    {
+        "name": "Chaos_Wastes",
+        "type": "toggle",
+        "img": "images/options/Chaos_Wastes.png",
+        "loop": true,
+        "codes": "Chaos_Wastes"
+    },
+    {
+        "name": "DLC_Careers",
+        "type": "toggle",
+        "img": "images/items/warrior_priest_of_sigmar.png",
+        "loop": true,
+        "codes": "DLC_Careers"
+    },
+    {
+        "name": "Forgotten_Relics",
+        "type": "toggle",
+        "img": "images/options/Forgotten_Relics.png",
+        "loop": true,
+        "codes": "Forgotten_Relics"
+    },
+    {
+        "name": "Fortunes_of_War",
+        "type": "toggle",
+        "img": "images/options/Fortunes_of_War.png",
+        "loop": true,
+        "codes": "Fortunes_of_War"
+    },
+    {
+        "name": "Karak_Azgaraz",
+        "type": "toggle",
+        "img": "images/options/Karak_Azgaraz.png",
+        "loop": true,
+        "codes": "Karak_Azgaraz"
+    },
+    {
+        "name": "Shadows_Over_Bogenhafen",
+        "type": "toggle",
+        "img": "images/options/Shadows_Over_Bogenhafen.png",
+        "loop": true,
+        "codes": "Shadows_Over_Bogenhafen"
+    },
+    {
+        "name": "The_Curse_of_Drachenfels",
+        "type": "toggle",
+        "img": "images/options/The_Curse_of_Drachenfels.png",
+        "loop": true,
+        "codes": "The_Curse_of_Drachenfels"
+    },
+    {
+        "name": "Winds_of_Magic",
+        "type": "toggle",
+        "img": "images/options/Winds_of_Magic.png",
+        "loop": true,
+        "codes": "Winds_of_Magic"
+    },
+    {
+        "name": "Winds_of_Magic_Weapons",
+        "loop": true,
+        "codes": "Winds_of_Magic_Weapons",
+        "type": "toggle",
+        "img": "images/options/Winds_of_Magic_Weapons.png"
+    },
+    {
+        "name": "Verminous_Dreams",
+        "loop": true,
+        "codes": "Verminous_Dreams",
+        "type": "toggle",
+        "img": "images/options/Verminous_Dreams.png"
+    },
+    {
+        "name": "Reikland_Tales",
+        "loop": true,
+        "codes": "Reikland_Tales",
+        "type": "toggle",
+        "img": "images/options/Reikland_Tales.png"
+    },
+    {
+        "name": "Careersanity",
+        "loop": true,
+        "codes": "Careersanity",
+        "type": "toggle",
+        "img": "images/options/Careersanity.png"
+    }
+]
