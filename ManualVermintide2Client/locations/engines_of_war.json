@@ -45,7 +45,7 @@
                         "name": "Complete the Mission (Engines of War)",
                         "item_count": 1,
                         "visibility_rules": [
-                            "Back_to_Ubersreik, Add_Grimoires"
+                            "Back_to_Ubersreik"
                         ]
                     }
                 ],
