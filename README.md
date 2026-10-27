@@ -36,4 +36,4 @@ Missions
 - LordMission
 
 # AI Disclosure
-No AI was used in any way, shape or form in the development of this manual AP implementation
+No AI was used in any way, shape or form in the development of this manual AP implementation or the corresponding poptracker pack
